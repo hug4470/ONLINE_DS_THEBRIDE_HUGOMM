@@ -6,11 +6,11 @@ def organizador():
     for archivo in os.listdir(path):
         fichero = Fichero(archivo, path)
         
-    return fichero.mover()
+    return Fichero.mover()
 print("Movindo archivos...")
 # IMPRIMIMOS LISTA DE ARCHIVOS EN LA CARPETA DESCARGAS
-result_generator = os.walk(os.getcwd(path))
-files_result = [x for x in result_generator]
-files_result
+# result_generator = os.walk(os.getcwd(path))
+# files_result = [x for x in result_generator]
+# files_result
 
 organizador()

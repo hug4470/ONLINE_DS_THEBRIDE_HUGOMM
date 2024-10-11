@@ -12,7 +12,7 @@ class Fichero:
             img_types = ('.jpg', '.jpeg', '.png', '.svg', '.gif')
             software_types = ('.exe', '.py', '.ipynb')
 
-            extension = "." + self.nombre.rsplit(".", 1)
+            _,extension = "." + self.nombre.rsplit(".", 1)
 
             if extension in doc_types:
                 return "Documentos"
