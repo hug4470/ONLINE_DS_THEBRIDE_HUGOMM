@@ -1,8 +1,8 @@
-Sexo-id sexual/género,Casos,Porcentaje
-Hombre Cis,103,67.7
-Hombre Trans,5,3.3
-Mujer Cis,19,12.5
-Mujer Trans,21,13.8
-Persona no binaria,4,2.6
-Total,152,100
-Desconocido,21,0
+Sexo-id sexual/género,Casos
+Hombre Cis,103
+Hombre Trans,5
+Mujer Cis,19
+Mujer Trans,21
+Persona no binaria,4
+Total,152
+Desconocido,21
