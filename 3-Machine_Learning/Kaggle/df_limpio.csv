@@ -1,0 +1,913 @@
+id,laptop_ID,Company,Product,TypeName,Inches,Cpu,Ram,Memory,Gpu,OpSys,Weight,Price_euros,Total Resolution
+0,972,949.0,XPS 13,Ultrabook,13.3,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.3,1268.0,5760000.0
+1,1085,949.0,Latitude 3570,Notebook,15.6,Intel Core i3 6100U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,2.06,481.98,1049088.0
+2,1013,914.0,EliteBook 840,Ultrabook,14.0,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.48,2089.0,2073600.0
+3,891,914.0,EliteBook x360,2 in 1 Convertible,13.3,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.28,1700.0,2073600.0
+4,1284,914.0,Pavilion 15-AW003nv,Notebook,15.6,AMD A9-Series 9410 2.9GHz,6.0,1.0TB Hybrid,AMD Radeon R7 M440,Windows 10,2.04,549.99,2073600.0
+5,132,914.0,ProBook 470,Notebook,17.3,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,2.5,928.0,2073600.0
+7,234,914.0,ZBook 15u,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,AMD FirePro W4190M,Windows 10,1.9,1269.0,2073600.0
+9,165,559.0,Aspire A517-51G,Notebook,17.3,Intel Core i5 8250U 1.6GHz,4.0,256GB SSD,Nvidia GeForce MX150,Windows 10,3.0,805.0,2073600.0
+10,849,963.0,Rog GL702VM-GC017T,Gaming,17.3,Intel Core i7 6700HQ 2.6GHz,16.0,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.73,1799.0,2073600.0
+11,645,899.0,IdeaPad 100S-14IBR,Notebook,14.0,Intel Celeron Dual Core N3060 1.6GHz,2.0,32GB Flash Storage,Intel HD Graphics 400,Windows 10,1.42,249.0,1049088.0
+12,482,949.0,Latitude E5470,Notebook,14.0,Intel Core i3 6100U 2.3GHz,8.0,128GB SSD,Intel HD Graphics 520,Windows 10,1.79,740.0,1049088.0
+13,1011,559.0,Aspire ES1-533,Notebook,15.6,Intel Pentium Quad Core N4200 1.1GHz,4.0,500GB HDD,Intel HD Graphics 505,Windows 10,2.4,380.0,1049088.0
+15,843,899.0,ThinkPad T470s,Notebook,14.0,Intel Core i5 7300U 2.6GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.32,1650.0,2073600.0
+16,589,914.0,ProBook 430,Notebook,13.3,Intel Core i3 7100U 2.4GHz,4.0,128GB SSD,Intel HD Graphics 620,Windows 10,1.49,719.0,2073600.0
+17,1138,949.0,Latitude E5570,Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Linux,2.09,523.63,1049088.0
+18,114,949.0,XPS 13,Ultrabook,13.3,Intel Core i7 7560U 2.4GHz,8.0,256GB SSD,Intel Iris Plus Graphics 640,Windows 10,1.23,1379.0,5760000.0
+19,654,559.0,Swift 3,Ultrabook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel Graphics 620,Windows 10,1.8,919.0,2073600.0
+20,858,914.0,EliteBook x360,2 in 1 Convertible,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.28,2277.0,2073600.0
+23,2,1339.69,Macbook Air,Ultrabook,13.3,Intel Core i5 1.8GHz,8.0,128GB Flash Storage,Intel HD Graphics 6000,macOS,1.34,898.94,1296000.0
+24,1174,1684.0,GP72M 7REX,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.7,1492.8,2073600.0
+25,1142,914.0,EliteBook 820,Ultrabook,12.5,Intel Core i5 6300U 2.4GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.26,1895.0,1049088.0
+26,989,914.0,Probook 450,Notebook,15.6,Intel Core i5 7200U 2.70GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce 930MX,Windows 10,2.04,979.0,2073600.0
+28,994,949.0,Inspiron 7579,2 in 1 Convertible,15.6,Intel Core i7 7500U 2.7GHz,12.0,512GB SSD,Intel HD Graphics 620,Windows 10,2.19,1299.0,2073600.0
+30,128,914.0,250 G6,Notebook,15.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,500GB HDD,Intel HD Graphics 400,No OS,1.86,259.0,1049088.0
+31,88,914.0,Pavilion 15-CK000nv,Ultrabook,15.6,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Nvidia GeForce GTX 940MX,Windows 10,1.83,699.0,2073600.0
+33,884,899.0,Thinkpad 13,Notebook,13.3,Intel Core i3 7100U 2.4GHz,4.0,180GB SSD,Intel HD Graphics 620,Windows 10,1.44,735.0,2073600.0
+34,7,1339.69,MacBook Pro,Ultrabook,15.4,Intel Core i7 2.2GHz,16.0,256GB Flash Storage,Intel Iris Pro Graphics,Mac OS X,2.04,2139.97,5184000.0
+35,49,949.0,Inspiron 3567,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,AMD Radeon R5 M430,Windows 10,2.3,639.0,2073600.0
+36,834,1195.0,Satellite Pro,Notebook,14.0,Intel Pentium Dual Core 4405U 2.1GHz,4.0,128GB SSD,Intel HD Graphics 510,Windows 10,1.75,499.0,1049088.0
+37,1280,949.0,Inspiron 3567,Notebook,15.6,Intel Core i3 7100U 2.4GHz,6.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.3,459.0,1049088.0
+39,374,949.0,Inspiron 5567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,AMD Radeon R7 M445,Windows 10,2.33,899.0,2073600.0
+40,781,1195.0,Tecra A40-C-1E5,Notebook,14.0,Intel Core i5 6200U 2.3GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,1.75,1020.0,1049088.0
+42,1241,949.0,Latitude E7270,Ultrabook,12.5,Intel Core i5 6300U 2.4GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.26,1713.37,2073600.0
+43,369,914.0,250 G6,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,Intel HD Graphics 620,Windows 10,1.86,639.0,2073600.0
+44,579,914.0,15-cd005nv (A9-9420/6GB/256GB/Radeon,Notebook,15.6,AMD A9-Series A9-9420 3GHz,6.0,256GB SSD,AMD Radeon 530,Windows 10,1.95,649.0,2073600.0
+45,414,949.0,Latitude 7480,Ultrabook,14.0,Intel Core i7 7600U 2.8GHz,8.0,512GB SSD,Intel HD Graphics,Windows 10,1.36,1680.0,2073600.0
+46,1096,899.0,IdeaPad Y900-17ISK,Gaming,17.3,Intel Core i7 6820HK 2.7GHz,32.0,512GB SSD +  1.0TB Hybrid,Nvidia GeForce GTX 980M,Windows 10,4.6,3240.0,2073600.0
+47,601,899.0,V320-17ISK (i3-6006U/4GB/500GB/FHD/No,Notebook,17.3,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,No OS,2.8,529.0,2073600.0
+48,228,914.0,ProBook 450,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,1TB HDD,Intel UHD Graphics 620,Windows 10,2.1,794.0,2073600.0
+49,436,265.0,FlexBook Edge,2 in 1 Convertible,11.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,32GB SSD,Intel HD Graphics 500,Windows 10,1.16,299.0,2073600.0
+50,924,914.0,Elitebook Folio,Ultrabook,12.5,Intel Core M 6Y75 1.2GHz,8.0,240GB SSD,Intel HD Graphics 515,Windows 10,1.09,3100.0,8294400.0
+51,1097,899.0,Yoga Book,2 in 1 Convertible,10.1,Intel Atom x5-Z8550 1.44GHz,4.0,64GB Flash Storage,Intel HD Graphics 400,Windows 10,0.69,646.27,2304000.0
+52,710,899.0,IdeaPad 320-15ABR,Notebook,15.6,AMD A12-Series 9720P 3.6GHz,8.0,1TB HDD,AMD Radeon R7,Windows 10,2.2,429.0,1049088.0
+53,691,914.0,17-bs000nv I3,Notebook,17.3,Intel Core i3 6006U 2GHz,4.0,256GB SSD,AMD Radeon R5 520,Windows 10,2.5,699.0,2073600.0
+54,498,1195.0,Portege X30-D-10L,Ultrabook,13.3,Intel Core i7 7500U 2.7GHz,32.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.05,2799.0,2073600.0
+55,430,963.0,X542UQ-DM117 (i3-7100U/8GB/1TB/GeForce,Notebook,15.6,Intel Core i3 7100U 2.4GHz,8.0,1TB HDD,Nvidia GeForce 940MX,Linux,2.3,597.0,2073600.0
+56,540,265.0,SmartBook Edge,Notebook,13.3,Intel Celeron Quad Core N3450 1.1GHz,4.0,32GB SSD,Intel HD Graphics 500,Windows 10,1.2,369.0,2073600.0
+57,544,914.0,250 G6,Notebook,15.6,Intel Pentium Quad Core N3710 1.6GHz,4.0,256GB SSD,Intel HD Graphics 405,Windows 10,1.86,398.99,2073600.0
+58,185,949.0,XPS 13,Ultrabook,13.3,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.23,1399.0,2073600.0
+61,372,949.0,Inspiron 5770,Notebook,17.3,Intel Core i5 8250U 1.6GHz,8.0,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.8,1085.0,2073600.0
+63,125,899.0,IdeaPad 320-15IKBN,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Nvidia GeForce 940MX,No OS,2.2,629.0,2073600.0
+64,864,899.0,ThinkPad T470p,Ultrabook,14.0,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia GeForce GT 940MX,Windows 10,1.96,1903.0,2073600.0
+65,818,899.0,IdeaPad 310-15IKB,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,1TB HDD,Nvidia GeForce 920M,Windows 10,2.4,609.0,2073600.0
+66,405,949.0,Precision M5520,Workstation,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia Quadro M1200,Windows 10,1.78,2712.0,8294400.0
+67,945,914.0,EliteBook 820,Ultrabook,12.5,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,1.26,1579.0,2073600.0
+68,619,949.0,Vostro 3568,Notebook,15.6,Intel Core i3 6006U 2.0GHz,4.0,1TB HDD,Intel HD Graphics 520,Linux,2.18,443.9,1049088.0
+69,233,963.0,K756UX-T4340T (i5-7200U/8GB/500GB,Notebook,17.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD +  500GB HDD,Nvidia GeForce GTX 950M,Windows 10,2.69,891.0,2073600.0
+70,570,899.0,Thinkpad P71,Notebook,17.3,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia Quadro M620M,Windows 10,3.4,2999.0,2073600.0
+72,1306,963.0,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,15.6,Intel Celeron Dual Core N3050 1.6GHz,4.0,500GB HDD,Intel HD Graphics,Windows 10,2.2,369.0,1049088.0
+73,839,3049.0,Blade Pro,Gaming,17.3,Intel Core i7 7820HK 2.9GHz,32.0,512GB SSD,Nvidia GeForce GTX 1080,Windows 10,3.49,5499.0,8294400.0
+74,4,1339.69,MacBook Pro,Ultrabook,15.4,Intel Core i7 2.7GHz,16.0,512GB SSD,AMD Radeon Pro 455,macOS,1.83,2537.45,5184000.0
+78,575,899.0,IdeaPad 320-15IAP,Notebook,15.6,Intel Pentium Quad Core N4200 1.1GHz,4.0,500GB HDD,Intel HD Graphics 505,Windows 10,2.2,344.0,2073600.0
+79,776,949.0,Inspiron 7559,Gaming,15.6,Intel Core i7 6700HQ 2.6GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows 10,2.72,1099.0,8294400.0
+80,1172,949.0,XPS 15,Notebook,15.6,Intel Core i5 6300HQ 2.3GHz,8.0,256GB SSD,Nvidia GeForce 960M,Windows 10,2.04,2250.68,8294400.0
+84,93,559.0,Aspire 5,Notebook,15.6,Intel Core i7 8550U 1.8GHz,8.0,1TB HDD,Nvidia GeForce MX150,Windows 10,2.2,689.0,2073600.0
+85,531,949.0,Inspiron 5770,Notebook,17.3,Intel Core i5 8250U 1.6GHz,8.0,128GB SSD +  1TB HDD,AMD Radeon 530,Linux,2.8,889.0,2073600.0
+89,973,559.0,Chromebook C738T-C2EJ,2 in 1 Convertible,11.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,32GB Flash Storage,Intel HD Graphics 400,Chrome OS,1.25,389.0,1049088.0
+92,1104,559.0,Aspire ES1-523,Notebook,15.6,AMD A8-Series 7410 2.2GHz,4.0,500GB HDD,AMD Radeon R5,Windows 10,2.4,387.0,1049088.0
+94,835,963.0,ZenBook Flip,2 in 1 Convertible,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.1,1358.0,2073600.0
+95,895,949.0,Inspiron 3552,Notebook,15.6,Intel Pentium Quad Core N3710 1.6GHz,4.0,500GB HDD,Intel HD Graphics,Windows 10,2.2,369.0,1049088.0
+96,593,914.0,Omen 17-AN010nv,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,3.78,1498.0,2073600.0
+98,315,899.0,IdeaPad 720S-13IKB,Notebook,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.1,999.0,2073600.0
+99,985,949.0,Latitude E7470,Ultrabook,14.0,Intel Core i7 6600U 2.6GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.5,1962.98,3686400.0
+100,1003,949.0,Latitude 5480,Notebook,14.0,Intel Core i5 7200U 2.5GHz,8.0,128GB SSD,Intel HD Graphics 620,Windows 10,1.6,1119.0,2073600.0
+101,1308,949.0,Inspiron 3567,Notebook,15.6,Intel Core i3 7100U 2.4GHz,6.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.3,459.0,1049088.0
+102,603,899.0,ThinkPad Yoga,2 in 1 Convertible,13.3,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.37,2025.0,2073600.0
+103,1047,914.0,Probook 640,Notebook,14.0,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.95,1195.0,2073600.0
+105,978,914.0,ProBook 450,Notebook,15.6,Intel Core i5 7200U 2.50GHz,8.0,1TB HDD,Nvidia GeForce 930MX,Windows 10,2.04,846.5,1049088.0
+106,676,1195.0,Tecra Z50-D-10E,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.0,1258.0,2073600.0
+107,944,899.0,IdeaPad 320-15IAP,Notebook,15.6,Intel Pentium Quad Core N4200 1.1GHz,4.0,1TB HDD,Intel HD Graphics 505,Windows 10,2.2,309.0,1049088.0
+109,1274,963.0,Rog G752VT-GC073T,Gaming,17.3,Intel Core i7 6700HQ 2.6GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,Windows 10,4.0,1900.0,2073600.0
+110,1000,914.0,Probook 450,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.04,806.0,2073600.0
+111,478,914.0,ZBook 15u,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,500GB HDD,AMD FirePro W4190M,Windows 10,1.9,1154.0,2073600.0
+112,8,1339.69,Macbook Air,Ultrabook,13.3,Intel Core i5 1.8GHz,8.0,256GB Flash Storage,Intel HD Graphics 6000,macOS,1.34,1158.7,1296000.0
+113,727,914.0,ProBook 470,Notebook,17.3,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Nvidia GeForce 930MX,Windows 10,2.63,1200.0,2073600.0
+116,955,963.0,X751SV-TY001T (N3710/4GB/1TB/GeForce,Notebook,17.3,Intel Pentium Quad Core N3710 1.6GHz,4.0,1TB HDD,Nvidia GeForce 920MX,Windows 10,2.8,530.0,1440000.0
+117,896,914.0,EliteBook x360,2 in 1 Convertible,13.3,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.28,1799.0,2073600.0
+118,817,949.0,Inspiron 7567,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,512GB SSD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.62,1679.0,8294400.0
+119,602,899.0,IdeaPad 110-15ISK,Notebook,15.6,Intel Core i3 6100U 2.3GHz,8.0,1TB HDD,Intel HD Graphics 520,Windows 10,2.29,459.0,1049088.0
+120,148,963.0,ZenBook UX430UA,Ultrabook,14.0,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.25,1099.0,2073600.0
+121,95,949.0,Inspiron 7577,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,256GB SSD,Nvidia GeForce GTX 1060,Windows 10,2.65,1195.0,2073600.0
+123,192,559.0,Swift 7,Ultrabook,13.3,Intel Core i5 7Y54 1.2GHz,8.0,256GB SSD,Intel HD Graphics 615,Windows 10,1.12,989.0,2073600.0
+124,1193,963.0,UX410UA-GV097T (i3-7100U/4GB/256GB/FHD/W10),Notebook,14.0,Intel Core i3 7100U 2.4GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.0,769.0,2073600.0
+125,410,559.0,Aspire 7,Notebook,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia GeForce GTX 1050,Linux,2.5,879.0,2073600.0
+126,105,949.0,Inspiron 3576,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,1TB HDD,AMD Radeon 520,Linux,2.2,647.0,2073600.0
+127,743,899.0,V310-15IKB (i7-7500U/4GB/1TB/FHD/W10),Notebook,15.6,Intel Core i7 7500U 2.7GHz,4.0,1TB HDD,Intel HD Graphics 620,Windows 10,1.85,779.0,2073600.0
+129,892,914.0,Pavilion x360,2 in 1 Convertible,15.6,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.3,684.8,1049088.0
+130,683,1684.0,GP62 7RDX,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.4,1294.0,2073600.0
+131,92,963.0,FX550IK-DM018T (FX-9830P/8GB/1TB/Radeon,Gaming,15.6,AMD FX 9830P 3GHz,8.0,1TB HDD,AMD Radeon RX 560,Windows 10,2.45,699.0,2073600.0
+132,828,949.0,Latitude 3480,Notebook,14.0,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,1.76,755.0,1049088.0
+134,42,949.0,Inspiron 7577,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.65,1499.0,2073600.0
+135,513,963.0,ZenBook UX510UX-CN211T,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10,2.0,1224.0,2073600.0
+136,517,949.0,XPS 13,Ultrabook,13.3,Intel Core i5 7200U 2.5GHz,8.0,128GB SSD,Intel HD Graphics 620,Windows 10,1.29,899.0,2073600.0
+137,196,999.9,Mi Notebook,Ultrabook,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Nvidia GeForce MX150,No OS,1.3,999.9,2073600.0
+138,1146,899.0,ThinkPad P40,2 in 1 Convertible,14.0,Intel Core i7 6600U 2.6GHz,8.0,512GB SSD,Nvidia Quadro M500M,Windows 7,1.8,2050.38,2073600.0
+139,523,914.0,15-bs190od (i5-8250U/4GB/1TB/W10),Notebook,15.6,Intel Core i5 8250U 1.6GHz,4.0,1TB HDD,Intel UHD Graphics 620,Windows 10,2.04,521.47,1049088.0
+141,777,1624.0,Notebook 9,Ultrabook,13.3,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.31,1599.0,2073600.0
+142,429,914.0,ProBook 650,Notebook,15.6,Intel Core i7 7820HQ 2.9GHz,8.0,256GB SSD,Intel HD Graphics 630,Windows 10,2.31,1427.0,2073600.0
+144,199,914.0,ProBook 470,Notebook,17.3,Intel Core i5 8250U 1.6GHz,8.0,1TB HDD,Nvidia GeForce 930MX,Windows 10,2.5,914.0,2073600.0
+147,448,949.0,Inspiron 5570,Notebook,15.6,Intel Core i5 8250U 1.6GHz,4.0,256GB SSD,AMD Radeon 530,Windows 10,2.2,749.0,2073600.0
+148,440,899.0,Thinkpad T570,Workstation,15.6,Intel Core i7 7600U 2.8GHz,16.0,512GB SSD,Nvidia GeForce 940MX,Windows 10,2.3,2445.0,8294400.0
+150,58,963.0,VivoBook Max,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.0,586.19,1049088.0
+154,668,949.0,Latitude E7470,Notebook,14.0,Intel Core i5 6300U 2.4GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.56,1229.0,2073600.0
+155,1206,949.0,XPS 13,Ultrabook,13.3,Intel Core i5 6300U 2.4GHz,8.0,256GB SSD,Intel HD Graphics 520,Linux,1.23,1099.0,5760000.0
+156,605,949.0,Latitude 5289,2 in 1 Convertible,12.5,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.34,1670.0,2073600.0
+159,950,949.0,Vostro 3568,Notebook,15.6,Intel Core i3 6006U 2.0GHz,4.0,1TB HDD,Intel HD Graphics 520,Windows 10,2.18,558.6,1049088.0
+161,33,914.0,17-ak001nv (A6-9220/4GB/500GB/Radeon,Notebook,17.3,AMD A6-Series 9220 2.5GHz,4.0,500GB HDD,AMD Radeon 530,Windows 10,2.71,439.0,2073600.0
+162,805,963.0,R417NA-RS01 (N3350/4GB/32GB/W10),Notebook,14.0,Intel Celeron Dual Core N3350 1.1GHz,4.0,32GB Flash Storage,Intel HD Graphics 500,Windows 10,1.63,299.0,1049088.0
+163,1208,899.0,Legion Y520-15IKBN,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.4,819.0,2073600.0
+164,349,899.0,Yoga 920-13IKB,2 in 1 Convertible,13.9,Intel Core i7 8550U 1.8GHz,16.0,512GB SSD,Intel UHD Graphics 620,Windows 10,1.4,2099.0,8294400.0
+165,1090,899.0,IdeaPad 300-17ISK,Notebook,17.3,Intel Core i5 6200U 2.3GHz,8.0,1.0TB HDD,AMD Radeon R5 M330,Windows 10,3.0,659.0,1440000.0
+166,1052,949.0,Latitude E5570,Notebook,15.6,Intel Core i5 6300U 2.4GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,2.09,1062.95,2073600.0
+167,107,1340.0,Surface Laptop,Ultrabook,13.5,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10 S,1.252,1340.0,3393024.0
+168,713,949.0,Vostro 5568,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.18,795.0,2073600.0
+169,1117,559.0,Chromebook 15,Notebook,15.6,Intel Celeron Dual Core 3205U 1.5GHz,4.0,16GB SSD,Intel HD Graphics,Chrome OS,2.2,209.0,1049088.0
+171,407,899.0,IdeaPad 320-15IAP,Notebook,15.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,1TB HDD,Intel HD Graphics 500,Windows 10,2.2,306.0,1049088.0
+172,1237,559.0,SP714-51 (i7-7Y75/8GB/256GB/FHD/W10),2 in 1 Convertible,14.0,Intel Core i7 7Y75 1.3GHz,8.0,256GB SSD,Intel HD Graphics 615,Windows 10,1.2,1149.0,2073600.0
+174,722,949.0,Latitude 5580,Notebook,15.6,Intel Core i5 7300U 2.6GHz,16.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.93,1426.66,2073600.0
+176,630,739.0,LifeBook A557,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.2,799.0,1049088.0
+177,718,899.0,Legion Y520-15IKBN,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.5,1249.0,2073600.0
+178,728,899.0,ThinkPad X1,Ultrabook,14.0,Intel Core i7 6500U 2.5GHz,8.0,512GB SSD,Intel HD Graphics 520,Windows 10,1.17,1686.64,3686400.0
+185,596,963.0,ROG Strix,Gaming,17.3,Intel Core i5 7300HQ 2.5GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.73,1770.0,2073600.0
+187,469,963.0,Pro P2540UA-AB51,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.37,749.0,2073600.0
+188,656,1195.0,Portege Z30-C-16J,Notebook,13.3,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.2,1213.0,2073600.0
+189,90,963.0,FX503VM-E4007T (i7-7700HQ/16GB/1TB,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.2,1449.0,2073600.0
+190,1115,949.0,Latitude E5270,Ultrabook,12.5,Intel Core i3 6100U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 7,1.5,1135.15,1049088.0
+191,511,899.0,Chromebook N23,Netbook,11.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,16GB SSD,Intel HD Graphics 400,Chrome OS,1.25,265.0,1049088.0
+192,720,949.0,Vostro 5568,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,Intel HD Graphics 620,Linux,1.98,726.0,2073600.0
+193,1066,949.0,Inspiron 5578,2 in 1 Convertible,15.6,Intel Core i5 7200U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.3,1094.0,2073600.0
+194,1091,899.0,Ideapad 700-15ISK,Notebook,15.6,Intel Core i5 6300HQ 2.3GHz,4.0,1TB HDD,Nvidia GeForce GTX 950M,Windows 10,2.3,977.0,2073600.0
+196,680,899.0,Yoga 720-13IKB,2 in 1 Convertible,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.3,1034.0,2073600.0
+197,906,1195.0,Portege X30-D-10V,Notebook,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.05,1475.0,2073600.0
+198,1132,3049.0,Blade Stealth,Ultrabook,12.5,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.25,1029.0,8294400.0
+199,1075,963.0,Rog G752VL-GC088D,Gaming,17.3,Intel Core i7 6700HQ 2.6GHz,16.0,1TB HDD,Nvidia GeForce GTX 965M,No OS,4.0,998.0,2073600.0
+200,424,914.0,EliteBook 1040,Ultrabook,14.0,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.43,1500.0,2073600.0
+201,156,1684.0,GE73VR 7RE,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.8,1890.0,2073600.0
+202,758,914.0,Zbook 17,Workstation,17.3,Intel Xeon E3-1535M v5 2.9GHz,16.0,256GB SSD,Nvidia Quadro M2000M,Windows 7,3.0,4389.0,2073600.0
+203,195,210.8,K147 (N3350/4GB/32GB/FHD/W10),Notebook,14.0,Intel Celeron Dual Core N3350 1.1GHz,4.0,32GB Flash Storage,Intel HD Graphics 500,Windows 10,1.3,260.0,2073600.0
+204,54,914.0,ProBook 430,Notebook,13.3,Intel Core i7 8550U 1.8GHz,8.0,512GB SSD,Intel UHD Graphics 620,Windows 10,1.49,1103.0,2073600.0
+205,166,949.0,Inspiron 3576,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,AMD Radeon 520,Windows 10,2.13,728.0,2073600.0
+207,1225,899.0,IdeaPad 320-15AST,Notebook,15.6,AMD E-Series 9000 2.2GHz,4.0,500GB HDD,AMD Radeon R2 Graphics,Windows 10,2.2,299.0,1049088.0
+208,1288,899.0,Yoga 500-14ISK,2 in 1 Convertible,14.0,Intel Core i7 6500U 2.5GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,1.8,638.0,2073600.0
+209,1242,949.0,Inspiron 5578,2 in 1 Convertible,15.0,Intel Core i3 7100U 2.4GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.08,509.0,2073600.0
+210,1123,914.0,15-bw011nv (A6-9220/4GB/1TB/FHD/W10),Notebook,15.6,AMD A6-Series 9220 2.5GHz,4.0,1TB HDD,AMD Radeon R4,Windows 10,2.1,398.0,2073600.0
+212,838,559.0,Swift 3,Notebook,14.0,Intel Core i3 7100U 2.4GHz,8.0,128GB SSD,Intel HD Graphics 620,Windows 10,1.5,619.0,2073600.0
+213,704,899.0,Yoga 910-13IKB,2 in 1 Convertible,14.0,Intel Core i7 7500U 2.7GHz,16.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.38,1749.0,2073600.0
+214,573,949.0,Latitude 5580,Notebook,15.6,Intel Core i5 7300U 2.6GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,1.93,959.0,1049088.0
+216,679,899.0,V310-15ISK (i5-7200U/8GB/1TB,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,128GB SSD +  1TB HDD,AMD Radeon R5 M430,Windows 10,1.9,817.95,2073600.0
+217,759,899.0,N23 (N3060/4GB/128GB/W10),Netbook,11.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,128GB SSD,Intel HD Graphics 400,Windows 10,1.4,475.0,1049088.0
+218,1025,914.0,EliteBook 820,Ultrabook,12.5,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,1.26,1539.0,2073600.0
+219,354,963.0,VivoBook Flip,2 in 1 Convertible,11.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,32GB Flash Storage,Intel HD Graphics 500,Windows 10,1.5,375.0,1049088.0
+220,335,949.0,XPS 15,Notebook,15.6,Intel Core i7 7700HQ 2.8GHz,32.0,1TB SSD,Nvidia GeForce GTX 1050,Windows 10,2.06,2639.0,8294400.0
+221,151,1684.0,GE72MVR 7RG,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,2.9,2029.0,2073600.0
+222,260,949.0,Vostro 5370,Ultrabook,13.3,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.41,949.0,2073600.0
+223,578,914.0,14-am079na (N3710/8GB/2TB/W10),Notebook,14.0,Intel Pentium Quad Core N3710 1.6GHz,8.0,2TB HDD,Intel HD Graphics 405,Windows 10,1.94,389.0,1049088.0
+225,1127,899.0,V110-15ISK (i3-6006U/4GB/128GB/W10),Notebook,15.6,Intel Core i3 6006U 2.0GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,2.1,429.0,1049088.0
+227,373,899.0,Legion Y520-15IKBN,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,No OS,2.4,809.0,2073600.0
+228,1287,963.0,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Notebook,15.6,Intel Core i7 6500U 2.5GHz,4.0,500GB HDD,Nvidia GeForce 920M,Windows 10,2.2,720.32,1049088.0
+229,1045,559.0,Aspire 3,Notebook,15.6,AMD A9-Series 9420 3GHz,6.0,1TB HDD,AMD Radeon R5,Windows 10,2.1,409.0,1049088.0
+230,1169,914.0,15-BA015wm (E2-7110/4GB/500GB/W10),Notebook,15.6,AMD E-Series 7110 1.8GHz,4.0,500GB HDD,AMD Radeon R2 Graphics,Windows 10,1.86,297.0,1049088.0
+232,671,914.0,15-ay047nv (i3-6006U/6GB/1TB/Radeon,Notebook,15.6,Intel Core i3 6006U 2GHz,6.0,1TB HDD,AMD Radeon R5 M430,Windows 10,2.04,539.0,2073600.0
+233,323,914.0,ProBook 640,Notebook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.95,980.0,2073600.0
+234,639,949.0,Inspiron 7567,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.62,1479.0,2073600.0
+236,84,914.0,ProBook 440,Notebook,14.0,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.63,860.0,2073600.0
+239,12,914.0,250 G6,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,No OS,1.86,344.99,2073600.0
+241,1291,914.0,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Notebook,15.6,Intel Core i7 6500U 2.5GHz,6.0,1TB HDD,AMD Radeon R5 M330,Windows 10,2.19,764.0,1049088.0
+242,734,949.0,Inspiron 5570,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.2,719.0,2073600.0
+243,685,914.0,Chromebook X360,2 in 1 Convertible,11.6,Intel Celeron Dual Core N3350 1.1GHz,8.0,64GB Flash Storage,Intel HD Graphics 500,Chrome OS,1.4,495.0,1049088.0
+244,336,1684.0,GL72M 7REX,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.7,1199.0,2073600.0
+245,454,949.0,Precision 3520,Workstation,15.6,Intel Xeon E3-1505M V6 3GHz,8.0,64GB Flash Storage +  1TB HDD,Nvidia Quadro M620,Windows 10,2.23,1993.0,2073600.0
+246,269,949.0,Inspiron 3567,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,AMD Radeon R5 M430,Windows 10,2.24,565.0,2073600.0
+247,1124,963.0,Rog GL552VW-CN470T,Gaming,15.6,Intel Core i7 6700HQ 2.6GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows 10,2.59,1339.0,2073600.0
+248,163,1195.0,Satellite Pro,Notebook,15.6,Intel Core i3 6006U 2.2GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,2.1,447.0,1049088.0
+249,483,949.0,Precision M5520,Workstation,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia Quadro M1200,Windows 10,1.78,2408.0,2073600.0
+252,618,949.0,Inspiron 7559,Gaming,15.6,Intel Core i7 6700HQ 2.6GHz,16.0,1TB HDD,Nvidia GeForce GTX 960<U+039C>,Windows 10,2.59,879.01,2073600.0
+253,1191,899.0,V110-15ISK (i5-6200U/4GB/500GB/No,Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,No OS,2.1,398.0,1049088.0
+254,1264,949.0,Latitude 5480,Notebook,14.0,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,1.6,875.0,1049088.0
+256,338,963.0,UX510UX-CN269T (i7-7500U/8GB/256GB,Notebook,14.0,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD +  1TB HDD,Intel HD Graphics 620,Windows 10,2.0,1334.0,2073600.0
+258,908,949.0,Inspiron 7567,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,1TB HDD,Nvidia GeForce GTX 1050Ti,Linux,2.62,929.0,2073600.0
+261,678,1340.0,Surface Laptop,Ultrabook,13.5,Intel Core i7 7600U 2.8GHz,8.0,256GB SSD,Intel Iris Plus Graphics 640,Windows 10 S,1.252,1867.85,3393024.0
+262,334,914.0,Elitebook 820,Ultrabook,12.5,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.26,1335.0,2073600.0
+263,154,949.0,Inspiron 7567,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,1.0TB Hybrid,Nvidia GeForce GTX 1050,Windows 10,2.62,899.0,2073600.0
+266,188,999.9,Mi Notebook,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Nvidia GeForce MX150,No OS,1.95,1199.0,2073600.0
+267,370,899.0,IdeaPad 320-15ISK,Notebook,15.6,Intel Core i3 6006U 2GHz,8.0,256GB SSD,Nvidia GeForce 920MX,No OS,2.2,499.0,1049088.0
+268,1002,949.0,Inspiron 5567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,AMD Radeon R7 M445,Windows 10,2.36,749.0,1049088.0
+269,1255,949.0,Vostro 3559,Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 7,2.24,737.0,1049088.0
+270,695,949.0,Inspiron 3567,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,1TB HDD,AMD Radeon R5 M430,Windows 10,2.2,545.67,1049088.0
+271,1150,899.0,IdeaPad 500-15ISK,Notebook,15.6,Intel Core i7 6500U 2.5GHz,16.0,1.0TB Hybrid,AMD Radeon R7 M360,Windows 10,2.5,1099.0,2073600.0
+272,833,899.0,ThinkPad X1,Ultrabook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB Flash Storage,Intel HD Graphics 620,Windows 10,1.13,1875.0,2073600.0
+274,1017,914.0,Probook 440,Notebook,14.0,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,1.64,779.0,1049088.0
+275,1130,949.0,XPS 13,Ultrabook,13.3,Intel Core i7 7560U 2.4GHz,8.0,256GB SSD,Intel Iris Plus Graphics 640,Windows 10,1.23,1379.0,2073600.0
+276,1259,963.0,ZenBook UX310UA-WB71,Ultrabook,13.3,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.45,1280.0,2073600.0
+280,885,1624.0,Notebook 9,Ultrabook,15.0,Intel Core i7 7500U 2.7GHz,16.0,256GB SSD,Nvidia GeForce 940MX,Windows 10,1.23,1849.0,2073600.0
+281,1026,914.0,Elitebook 840,Notebook,14.0,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.48,1590.0,2073600.0
+282,1304,899.0,IdeaPad 100S-14IBR,Notebook,14.0,Intel Celeron Dual Core N3050 1.6GHz,2.0,64GB Flash Storage,Intel HD Graphics,Windows 10,1.5,229.0,1049088.0
+283,563,265.0,SmartBook 130,Notebook,13.3,Intel Atom x5-Z8350 1.44GHz,4.0,32GB Flash Storage,Intel HD Graphics,Windows 10,1.35,255.0,2073600.0
+284,1199,899.0,IdeaPad 310-15IKB,Ultrabook,15.6,Intel Core i7 7500U 2.7GHz,6.0,256GB SSD,Nvidia GeForce 920M,Windows 10,1.54,831.0,2073600.0
+288,489,914.0,ProBook 430,Notebook,13.3,Intel Core i5 8250U 1.6GHz,4.0,128GB SSD,Intel UHD Graphics 620,Windows 10,1.49,726.0,2073600.0
+289,1213,914.0,Pavilion Power,Notebook,15.6,Intel Core i7 7700HQ 2.8GHz,12.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.21,1327.0,2073600.0
+290,472,963.0,X541NA-PD1003Y (N4200/4GB/500GB/W10),Notebook,15.6,Intel Pentium Quad Core N4200 1.1GHz,4.0,500GB HDD,Intel HD Graphics 500,Windows 10,2.0,304.0,1049088.0
+291,83,1339.69,"MacBook 12""",Ultrabook,12.0,Intel Core i5 1.3GHz,8.0,512GB SSD,Intel HD Graphics 615,macOS,0.92,1510.0,3317760.0
+292,904,899.0,ThinkPad T470s,Ultrabook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.32,1799.0,2073600.0
+293,289,559.0,Aspire A517-51G,Notebook,15.6,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Nvidia GeForce MX150,Windows 10,3.0,951.0,2073600.0
+296,682,914.0,Pavilion X360,2 in 1 Convertible,14.0,Intel Core i3 7100U 2.4GHz,4.0,128GB SSD,Nvidia GeForce 940MX,Windows 10,1.63,699.0,2073600.0
+300,213,899.0,IdeaPad 320-15IKBN,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.2,597.0,1049088.0
+301,9,963.0,ZenBook UX430UN,Ultrabook,14.0,Intel Core i7 8550U 1.8GHz,16.0,512GB SSD,Nvidia GeForce MX150,Windows 10,1.3,1495.0,2073600.0
+302,515,914.0,Envy 13-AB002nv,Ultrabook,13.3,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.34,1323.0,2073600.0
+303,380,949.0,Inspiron 5379,2 in 1 Convertible,13.3,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.62,869.01,2073600.0
+305,279,1195.0,Satellite Pro,Notebook,15.6,Intel Core i7 6500U 2.5GHz,8.0,500GB HDD,Nvidia GeForce 930M,Windows 10,2.2,812.0,1049088.0
+306,650,899.0,ThinkPad X1,Ultrabook,14.0,Intel Core i7 7500U 2.7GHz,16.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.14,2450.0,2073600.0
+307,879,559.0,TMX349-G2-M-50FS (i5-7200U/8GB/256GB/FHD/W10),Notebook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.56,902.0,2073600.0
+308,610,1684.0,Laptop MSI,Gaming,17.3,Intel Core i7 6820HK 2.7GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,Windows 10,4.14,2199.0,2073600.0
+311,276,963.0,Rog Strix,Gaming,17.3,AMD Ryzen 1700 3GHz,16.0,256GB SSD +  1TB HDD,AMD Radeon RX 580,Windows 10,3.2,1549.0,2073600.0
+313,333,963.0,VivoBook S15,Ultrabook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Nvidia GeForce 940MX,Windows 10,1.7,1049.9,2073600.0
+314,1277,1684.0,GE62 Apache,Gaming,15.6,Intel Core i7 6700HQ 2.6GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows 10,2.4,1229.0,2073600.0
+315,1283,899.0,IdeaPad Y700-15ISK,Notebook,15.6,Intel Core i7 6700HQ 2.6GHz,8.0,1TB HDD,Nvidia GeForce GTX 960M,Windows 10,2.6,899.0,2073600.0
+318,167,899.0,Legion Y520-15IKBN,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.5,1079.0,2073600.0
+319,1266,899.0,V510-15IKB (i5-7200U/8GB/256GB/FHD/No,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,No OS,2.3,573.0,2073600.0
+320,181,1684.0,GT80S 6QF-074US,Gaming,18.4,Intel Core i7 6920HQ 2.9GHz,32.0,512GB SSD +  1TB HDD,Nvidia GTX 980 SLI,Windows 10,4.4,2799.0,2073600.0
+321,205,899.0,V110-15ISK (i5-6200U/4GB/128GB/W10),Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,2.1,493.0,1049088.0
+322,574,739.0,Lifebook A557,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.2,739.0,1049088.0
+323,5,1339.69,MacBook Pro,Ultrabook,13.3,Intel Core i5 3.1GHz,8.0,256GB SSD,Intel Iris Plus Graphics 650,macOS,1.37,1803.6,4096000.0
+324,97,559.0,Spin 5,2 in 1 Convertible,13.3,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.5,847.0,2073600.0
+325,662,914.0,250 G6,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,No OS,1.86,364.9,1049088.0
+327,169,1684.0,GE63VR 7RE,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.4,1799.0,2073600.0
+328,613,1195.0,Tecra Z50-C-144,Notebook,15.6,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,2.2,1399.0,2073600.0
+329,306,963.0,Rog GL702VS-GC095T,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,2.9,2122.0,2073600.0
+330,202,914.0,Omen 17-W295,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,3.35,1379.0,2073600.0
+331,993,963.0,Rog GL753VE-DS74,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.99,1749.0,2073600.0
+332,806,949.0,Latitude 3580,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,128GB SSD,Intel HD Graphics 620,Windows 10,1.95,810.0,1049088.0
+333,789,949.0,Alienware 17,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,32.0,1TB SSD +  1TB HDD,Nvidia GeForce GTX 1070M,Windows 10,4.42,3588.8,2073600.0
+335,1265,963.0,Rog GL502VS,Gaming,15.6,Intel Core i7 6700HQ 2.6GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,2.34,2325.0,2073600.0
+339,460,899.0,ThinkPad T470,Notebook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.65,1345.0,2073600.0
+340,248,949.0,Inspiron 5577,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.56,879.0,2073600.0
+341,533,899.0,IdeaPad 320-15IKB,Notebook,15.6,Intel Core i7 7500U 2.7GHz,4.0,1TB HDD,Nvidia GeForce 920MX,Windows 10,2.2,799.0,2073600.0
+342,314,914.0,250 G6,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,1TB HDD,Intel HD Graphics 520,Windows 10,1.86,469.0,2073600.0
+344,1183,949.0,Inspiron 7567,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.62,1498.0,8294400.0
+345,796,899.0,Legion Y520-15IKBN,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,4.0,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.4,999.0,2073600.0
+347,867,963.0,X541NA (N4200/4GB/1TB/W10),Notebook,15.6,Intel Pentium Quad Core N4200 1.1GHz,4.0,1TB HDD,Intel HD Graphics 505,Windows 10,2.0,449.0,1049088.0
+348,211,949.0,XPS 13,Ultrabook,13.3,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.21,1949.0,8294400.0
+349,1175,899.0,ThinkPad T460s,Ultrabook,14.0,Intel Core i7 6600U 2.6GHz,12.0,512GB SSD,Intel HD Graphics 520,Windows 7,1.4,2299.0,2073600.0
+351,963,559.0,Chromebook 14,Notebook,14.0,Intel Celeron Dual Core N3060 1.6GHz,4.0,32GB Flash Storage,Intel HD Graphics 400,Chrome OS,1.68,349.0,1049088.0
+352,48,963.0,Rog Strix,Gaming,17.3,AMD Ryzen 1700 3GHz,8.0,256GB SSD +  1TB HDD,AMD Radeon RX 580,Windows 10,3.2,1299.0,2073600.0
+353,966,1195.0,Portege Z30-C-1CW,Notebook,13.3,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.2,1460.0,2073600.0
+354,216,963.0,ROG GL703VD-GC028T,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.9,1407.0,2073600.0
+355,957,1195.0,Tecra A50-C-1ZV,Notebook,15.6,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,2.2,1119.0,1049088.0
+356,431,949.0,Alienware 17,Gaming,17.3,Intel Core i7 7820HK 2.9GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42,2799.0,3686400.0
+359,751,899.0,Flex 5,2 in 1 Convertible,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.7,999.0,2073600.0
+360,266,899.0,IdeaPad 320-15ISK,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,256GB SSD,Intel HD Graphics 520,No OS,2.2,444.0,2073600.0
+361,309,963.0,GL553VE-FY082T (i7-7700HQ/8GB/1TB,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.5,1265.0,2073600.0
+362,763,963.0,Pro P2540UA-XO0192R,Notebook,15.6,Intel Core i7 7500U 2.7GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.37,849.9,1049088.0
+365,1039,914.0,Elitebook 820,Ultrabook,12.5,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.26,1559.0,1049088.0
+366,1136,914.0,Spectre Pro,Notebook,13.3,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.16,1690.0,2073600.0
+367,66,914.0,250 G6,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.86,690.0,2073600.0
+368,1252,1339.69,MacBook Air,Ultrabook,11.6,Intel Core i5 1.6GHz,4.0,256GB Flash Storage,Intel HD Graphics 6000,Mac OS X,1.08,959.0,1049088.0
+370,749,949.0,Vostro 3568,Notebook,15.6,Intel Core i3 6006U 2GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,2.0,665.0,1049088.0
+372,1295,559.0,Aspire ES1-531,Notebook,15.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,500GB HDD,Intel HD Graphics 400,Linux,2.4,289.0,1049088.0
+373,1177,914.0,Spectre Pro,2 in 1 Convertible,13.3,Intel Core i7 6600U 2.6GHz,8.0,512GB SSD,Intel HD Graphics 520,Windows 10,1.48,2041.0,3686400.0
+374,538,1195.0,Satellite Pro,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.0,860.0,2073600.0
+375,559,949.0,Alienware 17,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42,2699.0,2073600.0
+377,636,949.0,XPS 15,Notebook,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.0,1820.0,2073600.0
+378,614,899.0,IdeaPad 310-15IKB,Notebook,15.6,Intel Core i5 7200U 2.5GHz,6.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.4,564.0,2073600.0
+379,348,914.0,ProBook 450,Notebook,15.6,Intel Core i3 7100U 2.4GHz,8.0,1TB HDD,Nvidia GeForce 930MX,Windows 10,2.1,716.0,2073600.0
+380,768,559.0,Aspire 3,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.1,599.0,1049088.0
+381,705,963.0,Chromebook Flip,2 in 1 Convertible,12.5,Intel Core M M3-6Y30 0.9GHz,4.0,64GB Flash Storage,Intel HD Graphics 515,Chrome OS,1.2,669.0,2073600.0
+382,191,899.0,Legion Y520-15IKBN,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,256GB SSD,Nvidia GeForce GTX 1050,No OS,2.4,779.0,2073600.0
+387,311,914.0,EliteBook x360,2 in 1 Convertible,13.3,Intel Core i7 7600U 2.8GHz,16.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.28,1975.0,2073600.0
+388,494,949.0,XPS 15,Notebook,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,512GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.06,1899.0,2073600.0
+389,580,899.0,Thinkpad E570,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.3,830.0,2073600.0
+390,308,899.0,IdeaPad 320-15IKBN,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,2TB HDD,Nvidia GeForce 940MX,No OS,2.2,549.0,1049088.0
+392,1030,914.0,ProBook 450,Notebook,15.6,Intel Core i3 7100U 2.4GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.04,769.99,1049088.0
+393,1180,914.0,Pavilion 15-cb003nv,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.62,899.0,2073600.0
+395,803,1339.69,"MacBook 12""",Ultrabook,12.0,Intel Core M 1.2GHz,8.0,512GB Flash Storage,Intel HD Graphics 5300,Mac OS X,0.92,1165.0,3317760.0
+396,1168,899.0,V110-15ISK (i3-6006U/4GB/1TB/No,Notebook,15.6,Intel Core i3 6006U 2.0GHz,4.0,1TB HDD,Intel HD Graphics 520,No OS,1.9,339.0,1049088.0
+399,453,559.0,Aspire ES1-572,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Linux,2.4,441.8,1049088.0
+400,45,949.0,Inspiron 7773,2 in 1 Convertible,17.3,Intel Core i5 8250U 1.6GHz,12.0,1TB HDD,Nvidia GeForce 150MX,Windows 10,2.77,999.0,2073600.0
+401,170,559.0,Aspire 3,Notebook,15.6,Intel Pentium Quad Core N4200 1.1GHz,4.0,1TB HDD,Intel HD Graphics 505,Windows 10,2.1,363.51,1049088.0
+402,1077,949.0,Inspiron 5567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,16.0,2TB HDD,AMD Radeon R7 M445,Windows 10,2.32,989.99,2073600.0
+403,377,559.0,Aspire 3,Notebook,15.6,AMD A9-Series 9420 3GHz,4.0,128GB SSD,AMD Radeon R5,Windows 10,2.1,426.0,1049088.0
+404,1281,559.0,Aspire ES1-531,Notebook,15.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,500GB HDD,Intel HD Graphics 400,Linux,2.4,289.0,1049088.0
+405,1119,899.0,Legion Y520-15IKBN,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,512GB SSD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.4,1199.0,2073600.0
+406,488,949.0,Vostro 3568,Notebook,15.6,Intel Core i3 7100U 2.4GHz,4.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.18,586.6,1049088.0
+407,470,899.0,IdeaPad 510s-14IKB,Notebook,14.0,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,AMD Radeon R7 M460,No OS,1.5,799.0,2073600.0
+408,1303,899.0,Yoga 900-13ISK,2 in 1 Convertible,13.3,Intel Core i7 6500U 2.5GHz,16.0,512GB SSD,Intel HD Graphics 520,Windows 10,1.3,1499.0,5760000.0
+409,1212,949.0,Inspiron 7378,2 in 1 Convertible,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.6,1199.0,2073600.0
+410,779,949.0,Inspiron 5567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,16.0,256GB SSD,AMD Radeon R7 M445,Windows 10,2.3,1181.27,2073600.0
+411,1247,1684.0,GL62M 7RDX,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.2,1149.0,2073600.0
+412,298,949.0,XPS 15,Notebook,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.0,1829.0,2073600.0
+413,640,899.0,V330-15IKB (i5-8250U/4GB/256GB/FHD/W10),Notebook,15.6,Intel Core i5 8250U 1.6GHz,4.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.8,829.0,2073600.0
+414,572,949.0,XPS 13,Ultrabook,13.3,Intel Core i5 8250U 1.6GHz,8.0,128GB SSD,Intel UHD Graphics 620,Windows 10,1.21,1599.0,8294400.0
+415,552,914.0,ProBook 450,Notebook,15.6,Intel Core i3 7100U 2.4GHz,4.0,128GB SSD,Intel HD Graphics 620,Windows 10,2.1,705.5,2073600.0
+418,1036,914.0,Spectre 13-V100nv,Notebook,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.11,1149.0,2073600.0
+420,198,949.0,Inspiron 5379,2 in 1 Convertible,13.3,Intel Core i7 8550U 1.8GHz,8.0,1TB HDD,Intel UHD Graphics 620,Windows 10,1.62,839.0,2073600.0
+422,21,963.0,Vivobook E200HA,Netbook,11.6,Intel Atom x5-Z8350 1.44GHz,2.0,32GB Flash Storage,Intel HD Graphics 400,Windows 10,0.98,191.9,1049088.0
+423,836,949.0,Latitude 3480,Notebook,14.0,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,1.76,585.0,1049088.0
+424,890,914.0,ProBook 450,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.04,839.0,2073600.0
+425,1113,914.0,250 G5,Notebook,15.6,Intel Pentium Quad Core N3710 1.6GHz,4.0,1TB HDD,Intel HD Graphics 405,Windows 10,1.96,500.0,1049088.0
+426,585,1684.0,GT73VR Titan,Gaming,17.3,Intel Core i7 7820HK 2.9GHz,16.0,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.14,2729.0,2073600.0
+427,1,1339.69,MacBook Pro,Ultrabook,13.3,Intel Core i5 2.3GHz,8.0,128GB SSD,Intel Iris Plus Graphics 640,macOS,1.37,1339.69,4096000.0
+429,888,999.9,Mi Notebook,Ultrabook,13.3,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Nvidia GeForce 940MX,Windows 10,1.28,935.0,2073600.0
+430,726,265.0,Smartbook 142,Notebook,14.0,Intel Atom Z8350 1.92GHz,4.0,32GB HDD,Intel HD Graphics 400,Windows 10,1.4,265.0,2304000.0
+431,387,899.0,V310-15ISK (i3-6006U/4GB/128GB/FHD/No,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,128GB SSD,Intel HD Graphics 520,No OS,1.85,403.5,2073600.0
+433,769,899.0,Legion Y520-15IKBN,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.5,1048.0,2073600.0
+434,786,559.0,Swift 3,Notebook,14.0,Intel Core i3 7100U 2.4GHz,4.0,128GB SSD,Intel HD Graphics 620,Windows 10,1.8,636.0,2073600.0
+435,194,899.0,Thinkpad Yoga,2 in 1 Convertible,14.0,Intel Core i7 7500U 2.7GHz,16.0,1TB SSD,Intel HD Graphics 620,Windows 10,1.42,2824.0,3686400.0
+436,459,914.0,ProBook 650,Workstation,15.6,Intel Core i7 7820HQ 2.9GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,2.31,1534.0,2073600.0
+437,255,949.0,Inspiron 5579,2 in 1 Convertible,15.6,Intel Core i7 8550U 1.8GHz,8.0,1TB HDD,Intel UHD Graphics 620,Windows 10,2.08,819.0,2073600.0
+439,899,559.0,Chromebook C731-C78G,Netbook,11.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,32GB Flash Storage,Intel HD Graphics 400,Chrome OS,1.25,297.0,1049088.0
+441,1245,949.0,Vostro 3568,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,1TB HDD,Intel HD Graphics 520,Linux,2.18,521.86,1049088.0
+442,1080,949.0,XPS 13,Ultrabook,13.3,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.29,1458.0,2073600.0
+444,421,963.0,ZenBook Flip,2 in 1 Convertible,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.27,928.0,2073600.0
+447,903,1624.0,Notebook 9,Ultrabook,15.0,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.17,1699.0,2073600.0
+448,782,949.0,Inspiron 7567,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.62,1099.0,2073600.0
+449,271,963.0,ZenBook Flip,2 in 1 Convertible,13.3,Intel Core i7 8550U 1.8GHz,8.0,512GB SSD +  512GB SSD,Intel UHD Graphics 620,Windows 10,1.1,1499.0,2073600.0
+450,256,963.0,ROG G752VSK-GC493T,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,Windows 10,4.3,1799.0,2073600.0
+451,443,914.0,15-ra044nv (N3060/4GB/500GB/W10),Notebook,15.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,500GB HDD,Intel HD Graphics 400,Windows 10,2.1,347.0,1049088.0
+452,1129,899.0,Yoga Book,2 in 1 Convertible,10.1,Intel Atom x5-Z8550 1.44GHz,4.0,64GB Flash Storage,Intel HD Graphics 400,Android,0.69,549.0,2304000.0
+453,1001,899.0,Legion Y520-15IKBN,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.5,1189.0,2073600.0
+454,485,949.0,Inspiron 3576,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,1TB HDD,AMD Radeon 520,Windows 10,2.2,675.0,2073600.0
+455,1250,949.0,Inspiron 3567,Notebook,15.6,Intel Core i3 7100U 2.4GHz,8.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.3,469.01,1049088.0
+456,1084,1339.69,"MacBook 12""",Ultrabook,12.0,Intel Core M 1.1GHz,8.0,256GB Flash Storage,Intel HD Graphics 515,Mac OS X,0.92,1300.0,3317760.0
+458,1019,914.0,EliteBook 840,Notebook,14.0,Intel Core i5 6300U 2.4GHz,4.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.48,1099.99,1049088.0
+460,809,914.0,ZBook 17,Workstation,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia Quadro M2200,Windows 10,3.14,2064.9,2073600.0
+464,987,1195.0,Tecra A40-C-1DF,Notebook,14.0,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.95,1180.0,2073600.0
+465,964,914.0,ZBook Studio,Workstation,15.6,Intel Core i7 6820HQ 2.7GHz,8.0,8GB SSD,Nvidia Quadro M1000M,Windows 10,2.0,2249.0,2073600.0
+466,1139,963.0,VivoBook Max,Notebook,15.6,Intel Core i3 7100U 2.4GHz,4.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.0,435.0,1049088.0
+467,1058,914.0,EliteBook 840,Notebook,14.0,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,1.54,1000.0,2073600.0
+469,203,914.0,Probook 470,Notebook,17.3,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Nvidia GeForce 930MX,Windows 10,2.5,1045.0,2073600.0
+470,788,963.0,Vivobook Max,Notebook,15.6,Intel Pentium Dual Core N4200 1.1GHz,8.0,128GB SSD,Intel HD Graphics 505,Windows 10,2.0,581.9,2073600.0
+471,543,949.0,Inspiron 5570,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,AMD Radeon 530,Windows 10,2.2,797.41,2073600.0
+472,599,949.0,Inspiron 3179,2 in 1 Convertible,11.6,Intel Core M 7Y30 1.0GHz,4.0,128GB SSD,Intel HD Graphics 615,Windows 10,1.39,603.0,1049088.0
+474,110,963.0,UX430UQ-GV209R (i7-7500U/8GB/256GB/GeForce,Ultrabook,14.0,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Nvidia GeForce 940MX,Windows 10,1.3,1193.0,2073600.0
+475,64,963.0,UX410UA-GV350T (i5-8250U/8GB/256GB/FHD/W10),Notebook,14.0,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.4,941.0,2073600.0
+476,1141,899.0,Yoga Book,2 in 1 Convertible,10.1,Intel Atom x5-Z8550 1.44GHz,4.0,64GB Flash Storage,Intel HD Graphics 400,Windows 10,0.69,479.0,2304000.0
+478,176,899.0,IdeaPad 320-15AST,Notebook,15.6,AMD A6-Series 9220 2.9GHz,4.0,500GB HDD,AMD Radeon R4 Graphics,No OS,2.2,309.0,1049088.0
+481,71,963.0,FX753VE-GC093 (i7-7700HQ/12GB/1TB/GeForce,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,12.0,1TB HDD,Nvidia GeForce GTX 1050 Ti,Linux,3.0,949.0,2073600.0
+482,1131,899.0,IdeaPad Y900-17ISK,Gaming,17.3,Intel Core i7 6820HK 2.7GHz,16.0,256GB SSD +  1.0TB Hybrid,Nvidia GeForce GTX 980M,Windows 10,4.6,2749.99,2073600.0
+484,1207,559.0,Predator G9-793,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.2,2599.0,2073600.0
+485,914,949.0,XPS 13,2 in 1 Convertible,13.3,Intel Core i7 7Y75 1.3GHz,16.0,256GB SSD,Intel HD Graphics 615,Windows 10,1.22,1649.0,2073600.0
+486,395,899.0,ThinkPad X1,2 in 1 Convertible,14.0,Intel Core i7 7500U 2.7GHz,16.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.42,2509.0,3686400.0
+488,753,559.0,Chromebook 14,Notebook,14.0,Intel Celeron Dual Core N3060 1.6GHz,2.0,32GB Flash Storage,Intel HD Graphics 400,Chrome OS,1.68,330.0,1049088.0
+489,6,559.0,Aspire 3,Notebook,15.6,AMD A9-Series 9420 3GHz,4.0,500GB HDD,AMD Radeon R5,Windows 10,2.1,400.0,1049088.0
+490,11,914.0,250 G6,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,No OS,1.86,393.9,1049088.0
+491,594,899.0,Thinkpad T460s,Ultrabook,14.0,Intel Core i7 6600U 2.6GHz,12.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.4,1673.0,2073600.0
+493,445,899.0,ThinkPad T470s,Ultrabook,14.0,Intel Core i7 7500U 2.7GHz,24.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.32,2382.0,3686400.0
+494,785,899.0,Thinkpad P50,Notebook,15.6,Intel Core i7 6820HQ 2.7GHz,16.0,512GB SSD,Nvidia Quadro M2000M,Windows 7,2.5,2370.0,8294400.0
+495,851,949.0,Alienware 17,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,32.0,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42,3072.89,2073600.0
+497,346,949.0,Inspiron 3552,Notebook,15.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,500GB HDD,Intel HD Graphics,Linux,2.2,274.9,1049088.0
+498,1144,914.0,Omen -,Gaming,17.3,Intel Core i5 6300HQ 2.3GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,3.35,1129.0,2073600.0
+499,140,963.0,FX753VD-GC086T (i5-7300HQ/8GB/1TB,Gaming,17.3,Intel Core i5 7300HQ 2.5GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,3.0,938.0,2073600.0
+500,1121,1684.0,GE72 Apache,Gaming,17.3,Intel Core i7 6700HQ 2.6GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows 10,2.9,1511.19,2073600.0
+503,1194,899.0,B51-80 (i7-6500U/4GB/1008GB/FHD/W7),Notebook,15.6,Intel Core i7 6500U 2.5GHz,4.0,1.0TB Hybrid,Intel HD Graphics 520,Windows 7,2.32,825.0,2073600.0
+504,755,914.0,250 G6,Notebook,15.6,Intel Core i3 6006U 2GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.86,539.0,2073600.0
+506,227,1195.0,Portege Z30-C-16L,Ultrabook,13.3,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.2,1363.0,2073600.0
+509,337,1195.0,Satellite Pro,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.0,943.0,2073600.0
+510,135,559.0,Swift 3,Ultrabook,14.0,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.6,884.0,2073600.0
+511,1314,914.0,Stream 11-Y000na,Netbook,11.6,Intel Celeron Dual Core N3060 1.6GHz,2.0,32GB Flash Storage,Intel HD Graphics 400,Windows 10,1.17,209.0,1049088.0
+512,915,899.0,ThinkPad X1,Ultrabook,14.0,Intel Core i7 7500U 2.7GHz,8.0,256GB Flash Storage,Intel HD Graphics 620,Windows 10,1.13,2049.0,2073600.0
+515,197,899.0,IdeaPad 320-17IKBR,Notebook,17.3,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Nvidia GeForce MX150,No OS,2.8,698.0,1440000.0
+517,1071,559.0,Aspire ES1-523,Notebook,15.6,AMD A8-Series 7410 2.2GHz,8.0,1TB HDD,AMD Radeon R5,Windows 10,2.4,449.0,1049088.0
+518,617,899.0,Thinkpad P51,Notebook,15.6,Intel Xeon E3-1535M v6 3.1GHz,32.0,1TB SSD,Nvidia Quadro M2200M,Windows 10,2.5,4899.0,8294400.0
+519,451,914.0,Omen 15-AX205na,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.2,1099.0,2073600.0
+520,265,949.0,Inspiron 5770,Notebook,17.3,Intel Core i7 8550U 1.8GHz,8.0,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.8,1142.0,2073600.0
+522,96,963.0,Zenbook UX430UA,Ultrabook,14.0,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.25,1049.0,2073600.0
+523,112,899.0,Thinkpad T470,Notebook,14.0,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.58,1480.0,2073600.0
+525,847,899.0,N42-20 Chromebook,Notebook,14.0,Intel Celeron Quad Core N3160 1.6GHz,4.0,16GB Flash Storage,Intel HD Graphics 400,Chrome OS,1.5,325.0,1049088.0
+526,800,210.8,K146 (N3350/4GB/32GB/W10),Notebook,14.0,Intel Celeron Dual Core N3350 1.1GHz,4.0,32GB Flash Storage,Intel HD Graphics 500,Windows 10,1.22,202.9,2073600.0
+528,434,949.0,Latitude 5480,Ultrabook,14.0,Intel Core i7 7600U 2.8GHz,8.0,256GB SSD,Intel HD Graphics 620,Linux,1.6,1099.0,2073600.0
+530,775,963.0,X751NV-TY001 (N4200/4GB/1TB/GeForce,Notebook,17.3,Intel Pentium Quad Core N4200 1.1GHz,4.0,1TB HDD,Nvidia GeForce 920MX,Windows 10,2.8,470.34,1049088.0
+531,351,899.0,Legion Y520-15IKBN,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  2TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.4,1129.0,2073600.0
+532,89,914.0,250 G6,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.96,598.99,2073600.0
+533,673,1195.0,Satellite Pro,Notebook,15.6,Intel Core i3 6100U 2.1GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,2.1,498.0,1049088.0
+535,432,949.0,Inspiron 7577,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.62,1159.0,2073600.0
+536,241,559.0,Aspire A315-51,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,1TB HDD,Intel HD Graphics 520,Linux,2.1,390.0,1049088.0
+538,711,899.0,V310-15IKB (i5-7200U/4GB/1TB/FHD/W10),Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,1TB HDD +  1TB HDD,Intel HD Graphics 620,Windows 10,2.1,621.45,2073600.0
+541,1060,914.0,EliteBook 1040,Notebook,14.0,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.43,1469.0,2073600.0
+543,938,899.0,ThinkPad Yoga,2 in 1 Convertible,13.3,Intel Core i5 7200U 2.5GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.37,1825.0,2073600.0
+544,358,1684.0,GP72MVR 7RFX,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.7,1409.0,2073600.0
+546,1292,963.0,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,15.6,Intel Celeron Dual Core N3050 1.6GHz,4.0,500GB HDD,Intel HD Graphics,Windows 10,2.2,369.0,1049088.0
+547,862,963.0,Rog GL502VM-DS74,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.1,1899.0,2073600.0
+549,703,559.0,TravelMate B117-M,Netbook,11.6,Intel Celeron Dual Core N3050 1.6GHz,4.0,32GB Flash Storage,Intel HD Graphics,Windows 10,1.4,269.0,1049088.0
+550,1275,949.0,Vostro 3568,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,2.29,490.0,1049088.0
+553,1108,949.0,Inspiron 5370,Ultrabook,13.3,Intel Core i5 8250U 1.6GHz,4.0,256GB SSD,AMD Radeon 530,Windows 10,1.4,818.35,2073600.0
+554,624,914.0,EliteBook 850,Ultrabook,15.6,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.84,1389.0,2073600.0
+555,267,914.0,ProBook 450,Notebook,15.6,Intel Core i5 8250U 1.6GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.1,722.0,2073600.0
+557,81,914.0,ProBook 470,Notebook,17.3,Intel Core i5 8250U 1.6GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce 930MX,Windows 10,2.5,977.0,2073600.0
+558,1189,914.0,ProBook 450,Notebook,15.6,Intel Core i7 8550U 1.8GHz,16.0,512GB SSD,Intel UHD Graphics 620,Windows 10,2.1,1159.0,2073600.0
+559,189,949.0,Inspiron 7773,Notebook,17.3,Intel Core i7 8550U 1.8GHz,16.0,512GB SSD,Nvidia GeForce 150MX,Windows 10,2.77,1549.0,2073600.0
+560,1286,914.0,Stream 11-Y000na,Netbook,11.6,Intel Celeron Dual Core N3060 1.6GHz,2.0,32GB Flash Storage,Intel HD Graphics 400,Windows 10,1.17,209.0,1049088.0
+561,225,949.0,Inspiron 3576,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,AMD Radeon 520,Linux,2.2,677.35,2073600.0
+562,863,949.0,Inspiron 5767,Notebook,17.3,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,AMD Radeon R7 M445,Linux,2.83,865.0,2073600.0
+563,730,899.0,ThinkPad T470s,Ultrabook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.32,1499.0,2073600.0
+564,1223,949.0,Inspiron 5567,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,AMD Radeon R7 M445,Windows 10,2.36,889.0,2073600.0
+565,1145,914.0,15-bs078cl (i7-7500U/8GB/2TB/W10),Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,2TB HDD,Intel HD Graphics 620,Windows 10,2.04,629.0,1049088.0
+566,611,949.0,Vostro 3568,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,1TB HDD,AMD Radeon R5 M420,Linux,2.18,465.0,1049088.0
+568,960,949.0,Latitude 7280,Ultrabook,12.5,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics,Windows 10,1.36,1472.2,2073600.0
+569,1029,1195.0,Portege A30-C-1CZ,Notebook,13.3,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.5,1210.0,1049088.0
+570,698,559.0,Chromebook 14,Notebook,14.0,Intel Celeron Dual Core 3855U 1.6GHz,4.0,32GB Flash Storage,Intel HD Graphics 510,Chrome OS,1.45,375.0,1049088.0
+571,1178,899.0,ThinkPad T460,Ultrabook,14.0,Intel Core i7 6600U 2.6GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.7,1499.0,2073600.0
+572,959,899.0,IdeaPad Y700-15ACZ,Gaming,15.6,AMD FX 8800P 2.1GHz,16.0,512GB SSD +  1TB HDD,AMD Radeon R9 M385,Windows 10,2.5,999.0,2073600.0
+574,16,1339.69,MacBook Pro,Ultrabook,13.3,Intel Core i5 2.3GHz,8.0,256GB SSD,Intel Iris Plus Graphics 640,macOS,1.37,1518.55,4096000.0
+575,1214,899.0,V110-15ISK (i3-6006U/4GB/1TB/Radeon,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,1TB HDD,AMD Radeon R5 M430,No OS,1.9,368.0,1049088.0
+576,747,559.0,Aspire ES1-572,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,2.4,410.8,1049088.0
+577,1126,949.0,Vostro 3559,Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,AMD Radeon R5 M315,Windows 7,2.24,769.15,1049088.0
+578,767,949.0,Alienware 17,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42,2868.99,8294400.0
+579,518,559.0,Aspire A515-51G,Notebook,15.6,Intel Core i7 7500U 2.7GHz,4.0,500GB HDD,Nvidia GeForce 940MX,Windows 10,2.2,639.0,2073600.0
+580,719,949.0,Latitude 5480,Notebook,14.0,Intel Core i5 7440HQ 2.8GHz,8.0,256GB SSD,Nvidia GeForce 930MX,Linux,1.64,1089.0,2073600.0
+581,587,265.0,SmartBook Edge,Notebook,14.0,Intel Celeron Quad Core N3450 1.1GHz,4.0,32GB SSD,Intel HD Graphics 500,Windows 10,1.45,389.0,2073600.0
+583,400,1684.0,Leopard GP72M,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.7,1349.0,2073600.0
+588,91,949.0,XPS 13,Ultrabook,13.3,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.21,1649.0,2073600.0
+589,912,949.0,XPS 13,2 in 1 Convertible,13.3,Intel Core i7 7Y75 1.3GHz,8.0,512GB SSD,Intel HD Graphics 615,Windows 10,1.24,2013.1,5760000.0
+590,844,949.0,Alienware 15,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,3.21,2774.63,2073600.0
+591,802,899.0,Yoga 510-15IKB,2 in 1 Convertible,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,AMD Radeon R7 M460,Windows 10,2.08,959.0,2073600.0
+593,514,559.0,Aspire A515-51G-59QF,Notebook,15.6,Intel Core i5 8250U 1.6GHz,4.0,1TB HDD,Nvidia GeForce MX150,Windows 10,2.2,613.0,2073600.0
+594,275,1339.69,MacBook Pro,Ultrabook,13.3,Intel Core i5 2.9GHz,8.0,512GB SSD,Intel Iris Graphics 550,macOS,1.37,1958.9,4096000.0
+595,1268,949.0,Inspiron 3552,Notebook,15.6,Intel Pentium Quad Core N3710 1.6GHz,4.0,500GB HDD,Intel HD Graphics,Linux,2.2,324.0,1049088.0
+596,897,949.0,Vostro 3568,Notebook,15.6,Intel Core i3 6006U 2.0GHz,4.0,1TB HDD,AMD Radeon R5 M420X,Linux,2.18,455.7,1049088.0
+597,1179,1684.0,GS40 Phantom,Gaming,14.0,Intel Core i7 6700HQ 2.6GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,Windows 10,1.7,1769.0,2073600.0
+598,1023,914.0,Probook 440,Notebook,14.0,Intel Core i3 7100U 2.4GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,1.64,684.0,1049088.0
+599,442,963.0,Rog Strix,Gaming,17.3,AMD Ryzen 1600 3.2GHz,8.0,256GB SSD +  1TB HDD,AMD Radeon RX 580,Windows 10,3.2,1695.0,2073600.0
+600,383,949.0,Inspiron 3552,Notebook,15.6,Intel Celeron Dual Core N3060 1.60GHz,4.0,500GB HDD,Intel HD Graphics 400,Windows 10,1.8,309.0,1049088.0
+601,689,963.0,L502NA-GO052T (N3350/4GB/128GB/W10),Notebook,15.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,128GB SSD,Intel HD Graphics 500,Windows 10,1.86,419.0,1049088.0
+602,1184,899.0,ThinkPad T570,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.95,1390.0,2073600.0
+603,925,899.0,IdeaPad 510-15IKB,Notebook,15.6,Intel Core i7 7500U 2.7GHz,6.0,256GB SSD,Nvidia GeForce 940MX,Windows 10,2.2,789.0,2073600.0
+604,381,914.0,15-bw003nv (A9-Series-9420/4GB/256GB/FHD/W10),Notebook,15.6,AMD A9-Series 9420 3GHz,4.0,256GB SSD,AMD Radeon R5,Windows 10,1.91,488.99,2073600.0
+606,1290,899.0,IdeaPad 100S-14IBR,Notebook,14.0,Intel Celeron Dual Core N3050 1.6GHz,2.0,64GB Flash Storage,Intel HD Graphics,Windows 10,1.5,229.0,1049088.0
+607,746,1684.0,GS63VR 7RF,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,1.8,2094.48,2073600.0
+609,1157,1684.0,GP62M 7RDX,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.4,1142.8,2073600.0
+611,1028,914.0,Probook 430,Notebook,13.3,Intel Core i3 7100U 2.4GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,1.49,800.0,1049088.0
+613,810,963.0,Pro P2540UA-XS51,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.37,1099.0,2073600.0
+614,1196,1684.0,GS60 Ghost,Gaming,15.6,Intel Core i7 6700HQ 2.6GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 970M,Windows 10,1.91,2153.37,2073600.0
+615,1103,914.0,Chromebook 13,Notebook,13.3,Intel Pentium Dual Core 4405Y 1.5GHz,4.0,32GB Flash Storage,Intel HD Graphics 515,Chrome OS,1.29,615.0,5760000.0
+616,700,914.0,ZBook 17,Workstation,17.3,Intel Core i7 7700HQ 2.8GHz,8.0,500GB HDD,Nvidia Quadro M1200,Windows 10,3.14,1907.99,2073600.0
+619,121,963.0,X705UV-BX074T (i3-6006U/4GB/1TB/GeForce,Notebook,17.3,Intel Core i3 6006U 2GHz,4.0,1TB HDD,Nvidia GeForce 920MX,Windows 10,2.0,564.0,2073600.0
+622,270,949.0,Inspiron 5579,2 in 1 Convertible,15.6,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,2.67,799.0,2073600.0
+623,816,914.0,15-ba043na (A12-9700P/8GB/2TB/W10),Notebook,15.6,AMD A12-Series 9700P 2.5GHz,8.0,2TB HDD,AMD Radeon R7 Graphics,Windows 10,2.04,629.0,1049088.0
+624,616,559.0,Swift SF114-31-P5HY,Notebook,14.0,Intel Pentium Quad Core N3710 1.6GHz,4.0,128GB Flash Storage,Intel HD Graphics 405,Windows 10,1.6,349.0,1049088.0
+625,25,914.0,15-BS101nv (i7-8550U/8GB/256GB/FHD/W10),Ultrabook,15.6,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.91,659.0,2073600.0
+626,672,1684.0,GP72VR Leopard,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.7,1486.77,2073600.0
+627,878,899.0,ThinkPad Yoga,2 in 1 Convertible,13.3,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.37,1950.0,2073600.0
+628,765,914.0,15-cb003na (i5-7300HQ/8GB/1TB,Notebook,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.2,1099.0,2073600.0
+629,288,899.0,Ideapad 320-15IKBN,Notebook,15.6,Intel Core i5 7200U 2.5GHz,6.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.2,579.0,2073600.0
+631,794,1684.0,GS43VR 7RE,Gaming,14.0,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,1.6,1891.0,2073600.0
+633,721,963.0,VivoBook E403NA,Notebook,14.0,Intel Celeron Dual Core N3350 1.1GHz,4.0,32GB Flash Storage,Intel HD Graphics 500,Windows 10,1.5,298.0,2073600.0
+634,501,963.0,Rog G752VL-UH71T,Gaming,17.3,Intel Core i7 6700HQ 2.6GHz,24.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 965M,Windows 10,4.33,1269.0,2073600.0
+636,1192,899.0,IdeaPad 510-15IKB,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,Nvidia GeForce 940MX,No OS,2.2,709.0,2073600.0
+637,73,949.0,Inspiron 5370,Ultrabook,13.3,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,AMD Radeon 530,Windows 10,1.4,955.0,2073600.0
+638,123,559.0,Spin 3,Notebook,15.6,Intel Core i3 7100U 2.4GHz,6.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.1,479.0,2073600.0
+639,412,963.0,Zenbook 3,Ultrabook,14.0,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.1,1873.0,2073600.0
+640,935,914.0,EliteBook 850,Ultrabook,15.6,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,AMD Radeon R7 M365X,Windows 10,1.84,1296.99,2073600.0
+642,296,963.0,FX753VD-GC071T (i7-7700HQ/8GB/1TB/GeForce,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,8.0,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,3.0,1187.0,2073600.0
+643,390,963.0,Zenbook Flip,Ultrabook,13.3,Intel Core i7 7500U 2.7GHz,16.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.1,1748.9,2073600.0
+645,39,914.0,250 G6,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,1TB HDD,Intel HD Graphics 620,Windows 10,1.86,488.69,1049088.0
+646,415,899.0,IdeaPad 320-15ISK,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,2.2,409.0,2073600.0
+647,490,246.945,"Lapbook 15,6",Notebook,15.6,Intel Atom x5-Z8350 1.44GHz,4.0,64GB Flash Storage,Intel HD Graphics,Windows 10,1.89,248.9,2073600.0
+648,882,899.0,IdeaPad 110-15ISK,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,1TB HDD,AMD Radeon R5 M430,No OS,2.2,479.0,2073600.0
+650,677,559.0,Aspire 3,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,128GB SSD,Intel HD Graphics 520,Linux,2.1,412.0,1049088.0
+652,143,559.0,Aspire 5,Notebook,17.3,Intel Core i3 7130U 2.7GHz,4.0,1TB HDD,Nvidia GeForce MX130,Windows 10,3.0,655.0,2073600.0
+654,1092,1684.0,GT72VR Dominator,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,3.78,2499.0,2073600.0
+656,877,1195.0,Portégé Z30-C-188,Ultrabook,13.3,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.2,1095.0,1049088.0
+657,588,949.0,Latitude 5580,Notebook,15.6,Intel Core i5 7300U 2.6GHz,8.0,500GB HDD,Intel HD Graphics 620,Windows 10,1.9,1008.52,1049088.0
+658,542,949.0,Latitude 5580,Notebook,15.6,Intel Core i7 7600U 2.8GHz,8.0,256GB SSD,Nvidia GeForce 930MX,Windows 10,1.93,1369.0,2073600.0
+661,525,914.0,Probook 450,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Nvidia GeForce 930MX,Windows 10,2.04,889.0,2073600.0
+662,263,1684.0,GT73EVR 7RE,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.14,2499.0,2073600.0
+664,295,559.0,Chromebook C910-C2ST,Notebook,15.6,Intel Celeron Dual Core 3205U 1.5GHz,2.0,16GB SSD,Intel HD Graphics,Chrome OS,2.19,199.0,1049088.0
+665,139,899.0,V110-15IAP (N3350/4GB/1TB/No,Notebook,15.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,1TB HDD,Intel HD Graphics 500,No OS,1.9,252.36,1049088.0
+667,742,899.0,ThinkPad 13,Notebook,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.44,960.0,2073600.0
+669,807,899.0,Yoga 910-13IKB,2 in 1 Convertible,13.9,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.38,1349.0,2073600.0
+670,1024,949.0,Inspiron 7567,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,1.0TB Hybrid,Nvidia GeForce GTX 1050,Windows 10,2.65,949.0,2073600.0
+671,388,963.0,ROG Strix,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.3,1655.0,2073600.0
+672,325,914.0,Elitebook 840,Notebook,14.0,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.48,1292.0,2073600.0
+676,252,963.0,Rog G701VIK-BA060T,Gaming,17.3,Intel Core i7 7820HK 2.9GHz,16.0,256GB SSD,Nvidia GeForce GTX 1080,Windows 10,3.6,2999.0,2073600.0
+677,138,914.0,Probook 440,Notebook,14.0,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.63,988.0,2073600.0
+678,262,914.0,Envy 17-U275cl,Notebook,17.3,Intel Core i7 8550U 1.8GHz,16.0,1TB HDD,Nvidia GeForce MX150,Windows 10,2.9,1059.0,2073600.0
+680,230,559.0,Aspire E5-576G,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Nvidia GeForce 940MX,Windows 10,2.2,832.0,2073600.0
+681,1170,899.0,B51-80 (i5-6200U/8GB/1TB/Radeon,Notebook,15.6,Intel Core i5 6200U 2.3GHz,8.0,1TB HDD,AMD Radeon R5 M330,No OS,2.32,599.0,2073600.0
+682,116,914.0,Probook 440,Notebook,14.0,Intel Core i5 8250U 1.6GHz,4.0,500GB HDD,Intel UHD Graphics 620,Windows 10,1.63,722.0,1049088.0
+683,941,914.0,Probook 650,Notebook,15.6,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,2.31,1165.0,2073600.0
+686,1218,949.0,Inspiron 5567,Notebook,15.6,Intel Core i3 6006U 2.0GHz,4.0,128GB SSD,AMD Radeon R7 M440,Windows 10,2.3,499.0,1049088.0
+687,155,899.0,V110-15IKB (i5-7200U/4GB/128GB/W10),Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,128GB SSD,Intel HD Graphics 620,Windows 10,1.9,498.0,1049088.0
+690,187,1195.0,Satellite Pro,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,128GB SSD,Intel HD Graphics 620,Windows 10,2.0,793.0,1049088.0
+691,1022,914.0,ProBook 440,Notebook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Nvidia GeForce 930MX,Windows 10,1.64,1049.26,2073600.0
+692,13,1339.69,MacBook Pro,Ultrabook,15.4,Intel Core i7 2.8GHz,16.0,256GB SSD,AMD Radeon Pro 555,macOS,1.83,2439.97,5184000.0
+693,182,899.0,V310-15IKB (i5-7200U/8GB/1TB,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,128GB SSD +  1TB HDD,AMD R17M-M1-70,Windows 10,1.9,813.0,2073600.0
+694,754,1624.0,Notebook 9,Ultrabook,13.3,Intel Core i7 7500U 2.7GHz,16.0,256GB SSD,Intel HD Graphics 620,Windows 10,0.81,1649.0,2073600.0
+696,147,914.0,255 G6,Notebook,15.6,AMD A6-Series 9220 2.5GHz,4.0,256GB SSD,AMD Radeon R4 Graphics,Windows 10,1.86,369.0,1049088.0
+697,449,899.0,ThinkPad X270,Ultrabook,12.5,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.36,1429.0,2073600.0
+698,1182,914.0,250 G4,Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,No OS,2.1,476.99,1049088.0
+699,510,899.0,IdeaPad 320-14IAP,Notebook,14.0,Intel Celeron Dual Core N3350 1.1GHz,4.0,500GB HDD,Intel HD Graphics 500,Windows 10,2.1,299.0,1049088.0
+700,1140,899.0,ThinkPad Yoga,2 in 1 Convertible,14.0,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.8,1669.0,2073600.0
+701,750,1195.0,Tecra X40-D-10G,Notebook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.25,1535.0,2073600.0
+703,158,914.0,15-BS103nv (i5-8250U/6GB/256GB/Radeon,Notebook,15.6,Intel Core i5 8250U 1.6GHz,6.0,256GB SSD,AMD Radeon 520,Windows 10,1.91,619.0,2073600.0
+704,1310,949.0,Inspiron 3552,Notebook,15.6,Intel Celeron Dual Core N3050 1.6GHz,2.0,500GB HDD,Intel HD Graphics,Windows 10,2.2,379.0,1049088.0
+707,910,949.0,Vostro 3568,Notebook,15.6,Intel Core i3 6006U 2.0GHz,4.0,1TB HDD,AMD Radeon R5 M420X,Windows 10,2.18,614.0,1049088.0
+709,1227,963.0,Rog Strix,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,2.2,2449.0,2073600.0
+710,975,899.0,ThinkPad X270,Ultrabook,12.5,Intel Core i5 7300U 2.6GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.36,1760.0,2073600.0
+711,119,914.0,Probook 440,Notebook,14.0,Intel Core i7 8550U 1.8GHz,8.0,512GB SSD,Intel UHD Graphics 620,Windows 10,1.63,1084.0,2073600.0
+712,129,914.0,Probook 440,Notebook,14.0,Intel Core i5 8250U 1.6GHz,8.0,1TB HDD,Intel UHD Graphics 620,Windows 10,1.63,812.0,2073600.0
+713,404,899.0,ThinkPad L470,Notebook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.9,938.0,2073600.0
+715,1147,963.0,L403NA-GA013TS (N3350/4GB/32GB/W10),Notebook,14.0,Intel Celeron Dual Core N3350 1.1GHz,4.0,32GB Flash Storage,Intel HD Graphics 500,Windows 10,1.5,278.0,1049088.0
+716,1018,1195.0,Portege Z30-C-16H,Notebook,13.3,Intel Core i5 6200U 2.3GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,1.2,1195.0,2073600.0
+717,292,963.0,VivoBook S15,Ultrabook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Nvidia GeForce 940MX,Windows 10,1.7,977.0,2073600.0
+718,332,559.0,Aspire E5-575,Notebook,15.6,Intel Core i5 7200U 2.5GHz,6.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.23,549.0,1049088.0
+720,1031,899.0,ThinkPad P70,Notebook,17.3,Intel Core i7 6820HQ 2.7GHz,16.0,512GB SSD,Nvidia Quadro 3000M,Windows 7,2.4,2968.0,8294400.0
+721,1240,914.0,15-bw009nv (A12-9720P/6GB/1TB/Radeon,Notebook,15.6,AMD A12-Series 9720P 2.7GHz,6.0,1TB HDD,AMD Radeon 530,Windows 10,2.1,529.0,2073600.0
+722,1181,899.0,IdeaPad 310-15ISK,Notebook,15.6,Intel Core i3 6006U 2.0GHz,8.0,1TB HDD,Intel HD Graphics 520,Windows 10,2.2,459.0,1049088.0
+723,886,949.0,Latitude 7280,Ultrabook,12.5,Intel Core i7 7600U 2.8GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.6,1690.0,2073600.0
+728,15,1339.69,"MacBook 12""",Ultrabook,12.0,Intel Core M m3 1.2GHz,8.0,256GB SSD,Intel HD Graphics 615,macOS,0.92,1262.4,3317760.0
+729,363,949.0,Inspiron 7577,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.65,999.0,2073600.0
+730,1222,963.0,FX502VM-DM105T (i7-6700HQ/8GB/1TB/GeForce,Gaming,15.6,Intel Core i7 6700HQ 2.6GHz,8.0,1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.2,1169.0,2073600.0
+731,190,949.0,XPS 15,Notebook,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,512GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.06,2397.0,8294400.0
+732,992,914.0,15-bs053od (i7-7500U/6GB/1TB/W10),Notebook,15.6,Intel Core i7 7500U 2.7GHz,6.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.04,579.0,1049088.0
+734,644,949.0,XPS 13,Ultrabook,13.3,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.23,1869.0,5760000.0
+735,458,949.0,Precision 3520,Workstation,15.6,Intel Core i7 6820HQ 2.7GHz,16.0,256GB SSD,Nvidia Quadro M620,Windows 10,2.17,1975.0,2073600.0
+738,1300,914.0,Stream 11-Y000na,Netbook,11.6,Intel Celeron Dual Core N3060 1.6GHz,2.0,32GB Flash Storage,Intel HD Graphics 400,Windows 10,1.17,209.0,1049088.0
+739,909,914.0,ProBook 450,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,Nvidia GeForce 930MX,Windows 10,2.04,900.0,2073600.0
+740,1067,914.0,ProBook 450,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.04,979.0,1049088.0
+741,1244,949.0,XPS 13,Ultrabook,13.3,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.29,1477.0,5760000.0
+742,1034,949.0,Inspiron 5568,2 in 1 Convertible,15.6,Intel Core i3 6100U 2.3GHz,4.0,1TB HDD,Intel HD Graphics 520,Windows 10,2.08,795.99,2073600.0
+743,541,963.0,ROG Strix,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.3,1649.0,2073600.0
+745,1190,963.0,X553SA-XX021T (N3050/4GB/500GB/W10),Notebook,15.6,Intel Celeron Dual Core N3050 1.6GHz,4.0,500GB HDD,Intel HD Graphics,Windows 10,2.2,369.0,1049088.0
+747,1256,1684.0,GL62 6QF,Gaming,15.6,Intel Core i7 6700HQ 2.6GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows 10,2.3,1169.0,2073600.0
+748,647,949.0,XPS 15,Notebook,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,1TB SSD,Nvidia GeForce GTX 1050,Windows 10,2.06,2399.0,8294400.0
+749,499,963.0,VivoBook Pro,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,1.99,1350.0,2073600.0
+750,954,914.0,Omen 17-W006na,Gaming,17.3,Intel Core i5 6300HQ 2.3GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 965M,Windows 10,2.75,1399.0,2073600.0
+752,10,559.0,Swift 3,Ultrabook,14.0,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.6,770.0,2073600.0
+753,716,899.0,Thinkpad T460p,Notebook,14.0,Intel Core i5 6300HQ 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.8,1191.0,2073600.0
+754,207,899.0,Legion Y720-15IKB,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,3.2,1749.0,2073600.0
+755,174,1349.0,MateBook X,Ultrabook,13.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.05,1349.0,3110400.0
+757,497,899.0,Thinkpad E570,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Nvidia GeForce 940MX,Windows 10,2.3,1011.99,2073600.0
+759,948,1195.0,Tecra Z40-C-12X,Notebook,14.0,Intel Core i5 6200U 2.3GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,1.47,1105.0,2073600.0
+760,299,899.0,V330-15IKB (i5-8250U/8GB/256GB/FHD/W10),Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,2.05,739.0,2073600.0
+762,212,949.0,XPS 13,Ultrabook,13.3,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.2,1449.0,2073600.0
+763,417,899.0,ThinkPad P51,Workstation,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,512GB SSD,Nvidia Quadro M1200,Windows 10,2.67,1925.0,2073600.0
+766,733,899.0,V310-15IKB (i5-7200U/4GB/1TB/No,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,1TB HDD,Intel HD Graphics 620,No OS,1.9,489.9,1049088.0
+767,977,1195.0,Portege X20W-D-10V,Ultrabook,12.5,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.1,1790.0,2073600.0
+768,392,899.0,Ideapad 510S-13IKB,Notebook,13.3,Intel Core i3 7100U 2.4GHz,4.0,128GB SSD,Intel HD Graphics 620,Windows 10,1.5,549.0,2073600.0
+769,1102,899.0,ThinkPad T460,Notebook,14.0,Intel Core i5 6200U 2.3GHz,8.0,180GB SSD,Intel HD Graphics 520,Windows 7,1.7,1199.0,2073600.0
+770,87,949.0,Inspiron 7577,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.65,1349.0,2073600.0
+772,717,914.0,17-ak002nv (A10-9620P/6GB/2TB/Radeon,Notebook,17.3,AMD A10-Series 9620P 2.5GHz,6.0,2TB HDD,AMD Radeon 530,Windows 10,2.71,655.01,2073600.0
+773,1224,914.0,15-bs025nv (i5-7200U/8GB/256GB/W10),Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.91,579.0,1049088.0
+774,474,949.0,Inspiron 5570,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,2TB HDD,AMD Radeon 530,Windows 10,2.02,759.0,2073600.0
+775,898,963.0,Rog GL753VD-GC082T,Gaming,17.3,Intel Core i5 7300HQ 2.5GHz,12.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.2,1369.9,2073600.0
+778,1167,899.0,ThinkPad X1,2 in 1 Convertible,14.0,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.27,2339.0,3686400.0
+782,1272,949.0,Inspiron 3552,Notebook,15.6,Intel Pentium Quad Core N3700 1.6GHz,4.0,500GB HDD,Intel HD Graphics,Windows 10,2.2,443.99,1049088.0
+784,1120,949.0,Latitude E5270,Ultrabook,12.5,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.5,1413.1,1049088.0
+785,371,914.0,15-AY023na (N3710/8GB/2TB/W10),Notebook,15.6,Intel Pentium Quad Core N3710 1.6GHz,8.0,2TB HDD,Intel HD Graphics 405,Windows 10,2.04,389.0,1049088.0
+786,466,914.0,17-BS092ND (i3-6006U/8GB/256GB/W10),Notebook,17.3,Intel Core i3 6006U 2GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,2.5,639.9,1440000.0
+787,1107,963.0,Rog GL702VM-GC354T,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.7,1599.0,2073600.0
+788,127,559.0,Aspire 3,Notebook,15.6,AMD A9-Series 9420 3GHz,4.0,256GB SSD,AMD Radeon R5,Windows 10,2.1,451.0,1049088.0
+789,1037,914.0,ProBook 440,Notebook,14.0,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Nvidia GeForce 930MX,Windows 10,1.64,1185.43,2073600.0
+790,360,1195.0,Tecra A50-C-21G,Notebook,15.6,Intel Core i7 6500U 2.5GHz,16.0,512GB SSD,Nvidia GeForce 930M,Windows 10,2.4,1403.0,2073600.0
+791,1106,914.0,250 G6,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,1TB HDD,Intel HD Graphics 520,No OS,1.86,345.99,1049088.0
+792,76,559.0,Aspire E5-475,Notebook,14.0,Intel Core i3 6006U 2GHz,8.0,1TB HDD,Intel HD Graphics 520,Windows 10,2.1,389.0,1049088.0
+793,576,899.0,ThinkPad L470,Notebook,14.0,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.02,990.0,1049088.0
+794,633,265.0,SmartBook 140,Notebook,14.0,Intel Atom x5-Z8350 1.44GHz,2.0,32GB Flash Storage,Intel HD Graphics,Windows 10,1.4,239.0,2073600.0
+795,130,963.0,E402WA-GA007T (E2-6110/4GB/64GB/W10,Notebook,14.0,AMD E-Series 6110 1.5GHz,4.0,64GB SSD,AMD Radeon R2,Windows 10 S,1.65,277.99,1049088.0
+796,692,899.0,Yoga 730,2 in 1 Convertible,13.3,Intel Core i7 8550U 1.8GHz,8.0,512GB SSD,Intel UHD Graphics 620,Windows 10,1.19,1499.0,2073600.0
+798,86,559.0,Aspire 3,Notebook,15.6,AMD A9-Series 9420 3GHz,4.0,1TB HDD,AMD Radeon R5,Windows 10,2.1,395.0,1049088.0
+799,242,963.0,X555QG-DM242T (A10-9620P/4GB/1TB,Notebook,15.6,AMD A10-Series A10-9620P 2.5GHz,4.0,128GB SSD +  1TB HDD,AMD Radeon R5 M430,Windows 10,2.2,575.0,2073600.0
+801,1064,899.0,ThinkPad X1,Notebook,14.0,Intel Core i7 6600U 2.6GHz,16.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.1,2620.0,3686400.0
+803,17,949.0,Inspiron 3567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,AMD Radeon R5 M430,Windows 10,2.2,745.0,2073600.0
+804,1100,914.0,EliteBook 840,Notebook,14.0,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 7,1.54,1030.99,2073600.0
+808,706,1195.0,Portege Z30T-C-133,Ultrabook,13.3,Intel Core i7 6500U 2.5GHz,16.0,512GB SSD,Intel HD Graphics 520,Windows 10,1.36,1877.0,2073600.0
+809,56,949.0,Inspiron 3576,Notebook,15.6,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,AMD Radeon 520,Windows 10,2.13,767.8,2073600.0
+812,444,1879.0,Pixelbook (Core,Ultrabook,12.3,Intel Core i7 7Y75 1.3GHz,16.0,512GB SSD,Intel HD Graphics 615,Chrome OS,1.1,2199.0,3840000.0
+813,731,949.0,Alienware 17,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,32.0,1TB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.36,3659.4,8294400.0
+814,1007,899.0,ThinkPad T560,Notebook,15.6,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,2.3,1349.0,2073600.0
+815,1294,949.0,Inspiron 3567,Notebook,15.6,Intel Core i3 7100U 2.4GHz,6.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.3,459.0,1049088.0
+818,1043,914.0,Probook 470,Notebook,17.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Nvidia GeForce 930MX,Windows 10,2.63,1080.0,2073600.0
+821,557,899.0,IdeaPad 320-15ISK,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,2.2,499.0,2073600.0
+823,345,949.0,Inspiron 7570,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Nvidia GeForce 940MX,Windows 10,2.0,1142.75,2073600.0
+824,462,949.0,Inspiron 3168,2 in 1 Convertible,11.6,Intel Pentium Quad Core N3710 1.6GHz,4.0,500GB HDD,Intel HD Graphics 405,Windows 10,1.47,479.0,1049088.0
+825,873,1195.0,Portege X30-D-10X,Notebook,13.3,Intel Core i5 7200U 2.5GHz,4.0,128GB SSD,Intel HD Graphics 620,Windows 10,1.05,1285.0,2073600.0
+827,813,949.0,Latitude 3180,Netbook,11.6,Intel Pentium Quad Core N4200 1.1GHz,4.0,128GB SSD,Intel HD Graphics 505,Windows 10,1.63,744.0,1049088.0
+828,231,949.0,Inspiron 5567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,16.0,1TB HDD,AMD Radeon R7 M445,Windows 10,2.3,859.01,2073600.0
+829,41,963.0,X540UA-DM186 (i3-6006U/4GB/1TB/FHD/Linux),Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,1TB HDD,Intel HD Graphics 620,Linux,2.0,389.0,2073600.0
+830,175,914.0,17-bs001nv (i5-7200U/6GB/2TB/Radeon,Notebook,17.3,Intel Core i5 7200U 2.5GHz,6.0,2TB HDD,AMD Radeon 520,Windows 10,2.71,699.0,2073600.0
+832,702,1195.0,Satellite Pro,Notebook,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.5,973.0,2073600.0
+836,937,1195.0,Tecra Z50-C-140,Notebook,15.6,Intel Core i7 6600U 2.6GHz,16.0,256GB SSD,Nvidia GeForce 930M,Windows 10,2.4,1975.0,2073600.0
+838,1263,963.0,Rog GL553VE-FY052T,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.5,1600.0,2073600.0
+839,1012,963.0,Rog GL553VE-DS74,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.5,1799.0,2073600.0
+840,427,899.0,Yoga 720-15IKB,2 in 1 Convertible,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,512GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.0,1899.0,8294400.0
+841,1049,914.0,EliteBook 820,Ultrabook,12.5,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.26,1349.0,2073600.0
+842,812,949.0,XPS 15,Notebook,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.06,1749.0,8294400.0
+843,887,963.0,X541NA-GO121 (N4200/4GB/1TB/Linux),Notebook,15.6,Intel Pentium Quad Core N4200 1.1GHz,4.0,1TB HDD,Intel HD Graphics 505,Linux,2.0,398.99,1049088.0
+844,821,1624.0,Notebook 9,Ultrabook,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,0.81,1499.0,2073600.0
+847,326,899.0,IdeaPad 320-17IKB,Notebook,17.3,Intel Core i5 7200U 2.5GHz,4.0,1TB HDD,Nvidia GeForce 920MX,Windows 10,2.79,589.0,1440000.0
+848,268,949.0,Vostro 3568,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.18,657.0,2073600.0
+849,1211,1339.69,"MacBook 12""",Ultrabook,12.0,Intel Core M 1.1GHz,8.0,256GB Flash Storage,Intel HD Graphics 5300,Mac OS X,0.92,1163.0,3317760.0
+850,530,914.0,ProBook 440,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,1.63,689.0,1049088.0
+851,1243,963.0,X540SA-RBPDN09 (N3710/4GB/1TB/W10),Notebook,15.6,Intel Pentium Quad Core N3710 1.6GHz,4.0,1TB HDD,Intel HD Graphics 405,Windows 10,2.65,309.0,1049088.0
+852,634,899.0,IdeaPad 320-15IKBN,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,128GB SSD,Intel HD Graphics 620,No OS,2.2,468.0,2073600.0
+853,871,899.0,ThinkPad E570,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.3,850.66,2073600.0
+855,512,899.0,ThinkPad 13,Notebook,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.44,949.0,2073600.0
+856,208,949.0,Precision 7520,Workstation,15.6,Intel Xeon E3-1505M V6 3GHz,16.0,256GB SSD +  1TB HDD,Nvidia Quadro M1200,Windows 10,2.8,3055.0,8294400.0
+859,31,246.945,"LapBook 15.6""",Notebook,15.6,Intel Atom x5-Z8300 1.44GHz,4.0,64GB Flash Storage,Intel HD Graphics,Windows 10,1.89,244.99,2073600.0
+860,399,559.0,Aspire 5,Notebook,15.6,Intel Core i5 8250U 1.6GHz,12.0,1TB HDD,Nvidia GeForce MX130,Windows 10,2.2,693.99,1049088.0
+864,519,949.0,Vostro 5568,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.18,836.0,2073600.0
+866,224,949.0,Inspiron 5379,2 in 1 Convertible,13.3,Intel Core i7 8550U 1.8GHz,16.0,512GB SSD,Intel UHD Graphics 620,Windows 10,1.62,1279.0,2073600.0
+867,376,963.0,ZenBook Flip,2 in 1 Convertible,15.6,Intel Core i7 7500U 2.7GHz,12.0,512GB SSD +  2TB HDD,Nvidia GeForce GT 940MX,Windows 10,2.26,1099.0,2073600.0
+868,693,949.0,Alienware 15,Gaming,15.6,Intel Core i7 7820HK 2.9GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,3.49,2813.75,2073600.0
+869,686,2299.0,Gram 15Z975,Ultrabook,15.6,Intel Core i7 8550U 1.8GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.09,2299.0,2073600.0
+871,357,914.0,Elitebook 850,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.84,1304.0,2073600.0
+872,555,914.0,250 G6,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,1.86,397.0,2073600.0
+873,340,963.0,FX553VD-FY647T (i7-7700HQ/8GB/256GB/GeForce,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.5,999.0,2073600.0
+874,394,949.0,Precision 5520,Workstation,15.6,Intel Core i7 6820HQ 2.7GHz,8.0,256GB SSD,Nvidia Quadro M1200,Windows 10,2.0,2135.0,2073600.0
+876,772,963.0,Zenbook UX330UA-AH5Q,Ultrabook,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.2,1129.0,5760000.0
+877,1307,963.0,ZenBook UX305CA-UBM1,Ultrabook,13.3,Intel Core M 6Y30 0.9GHz,8.0,512GB SSD,Intel HD Graphics 515,Windows 10,1.2,729.0,2073600.0
+878,502,899.0,Thinkpad X260,Ultrabook,12.5,Intel Core i5 6200U 2.3GHz,8.0,180GB SSD,Intel HD Graphics 520,Windows 10,1.3,1099.0,1049088.0
+879,1226,559.0,Aspire E5-774G,Notebook,17.3,Intel Core i3 6006U 2.0GHz,8.0,1TB HDD,Nvidia GeForce 940MX,Windows 10,3.3,629.0,1440000.0
+881,939,949.0,Latitude 3580,Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,1.95,729.9,1049088.0
+882,126,914.0,Probook 470,Notebook,17.3,Intel Core i7 8550U 1.8GHz,16.0,512GB SSD,Nvidia GeForce 930MX,Windows 10,2.5,1271.0,2073600.0
+883,986,949.0,Alienware 17,Gaming,17.3,Intel Core i7 6700HQ 2.6GHz,32.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42,2800.0,2073600.0
+884,919,559.0,Chromebook CB5-571-C1DZ,Notebook,15.6,Intel Celeron Dual Core 3205U 1.5GHz,4.0,16GB Flash Storage,Intel HD Graphics,Chrome OS,2.2,359.0,2073600.0
+888,118,914.0,Spectre x360,2 in 1 Convertible,13.3,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.26,1398.99,2073600.0
+890,425,949.0,Inspiron 3567,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.14,539.95,1049088.0
+891,965,949.0,Latitude 7480,Ultrabook,14.0,Intel Core i7 7600U 2.8GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.36,1775.0,2073600.0
+893,707,914.0,15-bs011nv (i7-7500U/4GB/500GB/Radeon,Notebook,15.6,Intel Core i7 7500U 2.7GHz,4.0,500GB HDD,AMD Radeon 530,Windows 10,2.1,689.0,2073600.0
+894,997,739.0,LifeBook A556,Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,256GB SSD,Intel HD Graphics 520,Windows 10,2.3,649.0,1049088.0
+895,1149,559.0,Aspire E5-576G,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,1TB HDD,Nvidia GeForce 940MX,Windows 10,2.23,616.0,2073600.0
+897,492,899.0,ThinkPad E480,Notebook,14.0,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.75,1049.0,2073600.0
+899,37,559.0,Aspire 3,Notebook,15.6,Intel Core i3 7130U 2.7GHz,4.0,1TB HDD,Intel HD Graphics 620,Linux,2.1,367.0,1049088.0
+902,1155,914.0,EliteBook 850,Ultrabook,15.6,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.88,2171.72,2073600.0
+904,79,949.0,Inspiron 5570,Notebook,15.6,Intel Core i7 8550U 1.8GHz,8.0,128GB SSD +  1TB HDD,Intel UHD Graphics 620,Windows 10,2.02,855.0,2073600.0
+907,1038,949.0,Latitude E5570,Notebook,15.6,Intel Core i5 6300U 2.4GHz,8.0,500GB HDD,Intel HD Graphics 520,Windows 10,2.09,1046.44,2073600.0
+909,200,3049.0,Blade Pro,Gaming,17.3,Intel Core i7 7820HK 2.9GHz,32.0,1TB SSD,Nvidia GeForce GTX 1080,Windows 10,3.49,6099.0,8294400.0
+911,236,914.0,15-rb013nv (E2-9000e/4GB/500GB/W10),Notebook,15.6,AMD E-Series 9000e 1.5GHz,4.0,500GB HDD,AMD Radeon R2,Windows 10,2.1,330.0,1049088.0
+913,1299,949.0,Inspiron 3567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,AMD Radeon R5 M430,Linux,2.3,805.99,1049088.0
+914,984,949.0,XPS 13,2 in 1 Convertible,13.3,Intel Core i7 7Y75 1.3GHz,16.0,512GB SSD,Intel HD Graphics 615,Windows 10,1.22,1899.0,5760000.0
+915,655,3049.0,Blade Pro,Gaming,14.0,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD,Nvidia GeForce GTX 1060,Windows 10,1.95,2599.0,2073600.0
+916,791,1195.0,Tecra Z40-C-161,Ultrabook,14.0,Intel Core i7 6600U 2.6GHz,16.0,512GB SSD,Nvidia GeForce 930M,Windows 10,1.47,1764.0,2073600.0
+919,111,1684.0,GP62M 7REX,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.2,1299.0,2073600.0
+921,250,949.0,Inspiron 5570,Notebook,15.6,Intel Core i7 8550U 1.8GHz,8.0,128GB SSD +  2TB HDD,AMD Radeon 530,Windows 10,2.2,985.0,2073600.0
+923,239,559.0,Aspire R7,2 in 1 Convertible,13.3,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.6,689.0,2073600.0
+924,664,949.0,Inspiron 5570,Notebook,15.6,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,AMD Radeon 530,Windows 10,2.2,919.0,2073600.0
+926,1219,899.0,IdeaPad 310-15ISK,Notebook,15.6,Intel Core i7 6500U 2.5GHz,8.0,500GB HDD,Nvidia GeForce 920MX,No OS,2.2,629.0,1049088.0
+928,508,914.0,15-BS026nv (i5-7200U/8GB/256GB/Radeon,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,AMD Radeon 520,Windows 10,1.91,618.99,1049088.0
+929,1285,949.0,Inspiron 3567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,AMD Radeon R5 M430,Linux,2.3,805.99,1049088.0
+931,1035,1195.0,Portégé Z30-C-16K,Ultrabook,13.3,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.2,1590.0,2073600.0
+932,30,914.0,ProBook 470,Notebook,17.3,Intel Core i5 8250U 1.6GHz,8.0,1TB HDD,Nvidia GeForce 930MX,Windows 10,2.5,896.0,2073600.0
+933,889,949.0,Vostro 5568,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,128GB SSD +  1TB HDD,Nvidia GeForce 940MX,Windows 10,2.18,912.5,2073600.0
+934,875,949.0,XPS 13,Ultrabook,13.3,Intel Core i7 7660U 2.5GHz,16.0,512GB SSD,Intel Iris Plus Graphics 640,Windows 10,1.29,2240.0,5760000.0
+938,159,899.0,Yoga 520-14IKB,2 in 1 Convertible,14.0,Intel Core i3 7100U 2.4GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.74,629.0,2073600.0
+939,798,949.0,Inspiron 7567,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.62,985.0,2073600.0
+941,183,914.0,Spectre x360,2 in 1 Convertible,13.3,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.29,1499.0,8294400.0
+942,506,899.0,ThinkPad L570,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.3,911.0,2073600.0
+943,995,1195.0,Portege Z30-C-1CV,Notebook,13.3,Intel Core i5 6200U 2.3GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 7,1.2,1195.0,2073600.0
+945,970,949.0,XPS 13,2 in 1 Convertible,13.3,Intel Core i5 7Y54 1.2GHz,8.0,256GB SSD,Intel HD Graphics 615,Windows 10,1.24,1899.0,2073600.0
+946,109,899.0,Ideapad 310-15ISK,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,1TB HDD,Intel HD Graphics 520,Windows 10,1.85,414.9,2073600.0
+947,642,963.0,X541NA-GO414T (N3350/8GB/1TB/W10),Notebook,15.6,Intel Celeron Dual Core N3350 1.1GHz,8.0,1TB HDD,Intel HD Graphics 500,Windows 10,2.0,399.0,1049088.0
+950,240,949.0,Inspiron 5567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,16.0,256GB SSD,AMD Radeon R7 M445,Linux,2.36,899.0,2073600.0
+952,355,949.0,Inspiron 5570,Ultrabook,15.6,Intel Core i5 8250U 1.6GHz,8.0,1TB HDD,AMD Radeon 530,Windows 10,1.9,663.0,2073600.0
+953,852,914.0,ProBook 470,Notebook,17.3,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,Nvidia GeForce 930MX,Windows 10,2.63,910.0,1440000.0
+955,14,949.0,Inspiron 3567,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,256GB SSD,AMD Radeon R5 M430,Windows 10,2.2,498.9,2073600.0
+956,180,559.0,Aspire A315-51,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,2.1,449.0,1049088.0
+959,59,1684.0,GS73VR 7RG,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  2TB HDD,Nvidia GeForce GTX 1070,Windows 10,2.43,2449.0,2073600.0
+960,860,914.0,250 G6,Notebook,15.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,128GB SSD,Intel HD Graphics 400,No OS,1.86,299.0,1049088.0
+961,1051,1195.0,Tecra Z40-C-136,Ultrabook,14.0,Intel Core i7 6600U 2.6GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.47,1725.0,2073600.0
+963,773,949.0,Latitude 3380,Notebook,13.3,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,1.65,849.0,1049088.0
+964,562,963.0,A541NA-GO342 (N3350/4GB/500GB/Linux),Notebook,15.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,500GB HDD,Intel HD Graphics 500,Linux,2.0,224.0,1049088.0
+965,1200,949.0,Vostro 5568,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Nvidia GeForce GT 940MX,Linux,1.98,895.01,2073600.0
+966,1238,899.0,Thinkpad T560,Notebook,15.6,Intel Core i7 6600U 2.6GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,2.3,1529.0,2073600.0
+967,1312,914.0,Pavilion 15-AW003nv,Notebook,15.6,AMD A9-Series 9410 2.9GHz,6.0,1.0TB Hybrid,AMD Radeon R7 M440,Windows 10,2.04,549.99,2073600.0
+968,670,899.0,IdeaPad 320-15ISK,Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,2.2,535.0,2073600.0
+969,218,899.0,IdeaPad 320-15IKBN,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,No OS,2.2,549.0,2073600.0
+970,1073,1684.0,GT62VR 6RD,Gaming,15.6,Intel Core i7 6700HQ 2.6GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.94,1819.0,2073600.0
+971,82,949.0,Latitude 5590,Ultrabook,15.6,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.88,1096.16,2073600.0
+972,714,559.0,Spin 5,2 in 1 Convertible,13.3,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,1.6,999.0,2073600.0
+973,301,559.0,Aspire A715-71G,Notebook,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia GeForce GTX 1050 Ti,Linux,2.5,979.0,2073600.0
+974,484,899.0,Thinkpad T470,Notebook,14.0,Intel Core i5 7200U 2.5GHz,8.0,180GB SSD,Intel HD Graphics 620,Windows 10,1.7,1364.0,2073600.0
+976,793,899.0,ThinkPad T470s,Ultrabook,14.0,Intel Core i7 7500U 2.7GHz,16.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.7,2299.0,2073600.0
+978,905,1684.0,GS73VR Stealth,Gaming,17.3,Intel Core i7 6700HQ 2.6GHz,16.0,512GB SSD +  2TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.43,2649.0,8294400.0
+980,217,914.0,15-bs018nq (i3-6006U/4GB/500GB/FHD/No,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,No OS,2.1,349.0,2073600.0
+981,632,899.0,IdeaPad 320-15IKB,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,Nvidia GeForce 920MX,Windows 10,2.2,899.0,2073600.0
+982,251,914.0,15-bs015dx (i5-7200U/8GB/1TB/W10),Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.04,559.0,1049088.0
+983,1006,899.0,V110-15IAP (N3350/4GB/128GB/No,Notebook,15.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,128GB SSD,Intel HD Graphics 500,No OS,1.9,270.62,1049088.0
+985,100,963.0,X541UV-DM1439T (i3-7100U/6GB/256GB/GeForce,Notebook,15.6,Intel Core i3 7100U 2.4GHz,6.0,256GB SSD,Nvidia GeForce 920M,Windows 10,2.0,577.0,2073600.0
+986,280,949.0,Inspiron 5567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,12.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.3,713.07,1049088.0
+988,783,914.0,EliteBook 820,Ultrabook,12.5,Intel Core i5 6200U 2.3GHz,4.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.26,1244.0,1049088.0
+990,1095,899.0,Yoga 900S-12ISK,Ultrabook,12.5,Intel Core M 6Y75 1.2GHz,8.0,512GB SSD,Intel HD Graphics 515,Windows 10,0.99,1399.0,3686400.0
+992,1165,949.0,Vostro 5568,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Nvidia GeForce 940MX,Windows 10,2.18,1009.9,2073600.0
+994,1004,914.0,EliteBook Folio,Netbook,12.5,Intel Core M 6Y75 1.2GHz,8.0,512GB SSD,Intel HD Graphics 515,Windows 10,0.97,1908.0,2073600.0
+995,364,949.0,Inspiron 3567,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,2TB HDD,Intel HD Graphics 620,Windows 10,2.36,557.37,1049088.0
+996,560,914.0,17-X047na (i3-6006U/8GB/1TB/W10),Notebook,17.3,Intel Core i3 6006U 2GHz,8.0,1TB HDD,Intel HD Graphics 520,Windows 10,2.65,544.15,1440000.0
+997,1301,963.0,X556UJ-XO044T (i7-6500U/4GB/500GB/GeForce,Notebook,15.6,Intel Core i7 6500U 2.5GHz,4.0,500GB HDD,Nvidia GeForce 920M,Windows 10,2.2,720.32,1049088.0
+998,375,914.0,Elitebook 1040,Ultrabook,14.0,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.36,1750.0,2073600.0
+999,391,899.0,Thinkpad X1,Ultrabook,14.0,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.13,2282.0,3686400.0
+1000,420,559.0,Aspire R7,2 in 1 Convertible,13.3,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.6,789.01,2073600.0
+1001,814,914.0,EliteBook 820,Netbook,12.5,Intel Core i5 7300U 2.6GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.26,1389.0,1049088.0
+1002,32,963.0,E402WA-GA010T (E2-6110/2GB/32GB/W10),Notebook,14.0,AMD E-Series E2-6110 1.5GHz,2.0,32GB Flash Storage,AMD Radeon R2,Windows 10,1.65,199.0,1049088.0
+1005,1048,914.0,EliteBook 850,Notebook,15.6,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.84,1228.99,2073600.0
+1006,1309,559.0,Aspire ES1-531,Notebook,15.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,500GB HDD,Intel HD Graphics 400,Linux,2.4,289.0,1049088.0
+1007,142,914.0,Envy 13-AD007nv,Notebook,13.3,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.32,699.0,2073600.0
+1008,85,899.0,IdeaPad 320-15AST,Notebook,15.6,AMD A6-Series 9220 2.5GHz,4.0,128GB SSD,AMD R4 Graphics,Windows 10,2.2,399.0,2073600.0
+1009,869,949.0,Inspiron 5368,Notebook,13.3,Intel Core i5 6200U 2.3GHz,8.0,1TB HDD,Intel HD Graphics 520,Windows 10,1.62,649.0,2073600.0
+1010,723,899.0,Thinkpad E470,Notebook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Nvidia GeForce 920MX,Windows 10,1.87,857.07,2073600.0
+1011,1233,559.0,C740-C9QX (3205U/2GB/32GB/Chrome,Netbook,11.6,Intel Celeron Dual Core 3205U 1.5GHz,2.0,32GB SSD,Intel HD Graphics,Chrome OS,1.3,174.0,1049088.0
+1012,916,899.0,ThinkPad T570,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.95,1962.99,2073600.0
+1013,52,559.0,Aspire A515-51G,Notebook,15.6,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Nvidia GeForce MX150,Windows 10,2.2,841.0,2073600.0
+1016,832,1684.0,GL62M 7RD,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,256GB SSD,Nvidia GeForce GTX 1050,Windows 10,2.4,1199.0,2073600.0
+1017,988,963.0,Rog Strix,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.73,2049.9,2073600.0
+1018,1122,899.0,Yoga 500-15ISK,2 in 1 Convertible,15.6,Intel Core i5 6200U 2.3GHz,4.0,256GB SSD,Intel HD Graphics 520,Windows 10,2.1,867.0,2073600.0
+1019,1014,559.0,Nitro 5,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.7,1260.0,2073600.0
+1022,316,949.0,XPS 13,Ultrabook,13.3,Intel Core i7 8550U 1.8GHz,16.0,1TB SSD,Intel UHD Graphics 620,Windows 10,1.21,2499.0,8294400.0
+1023,98,949.0,Inspiron 3567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,AMD Radeon R5 M430,Linux,2.2,599.9,2073600.0
+1024,68,914.0,250 G6,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,AMD Radeon 520,Windows 10,1.86,438.69,1049088.0
+1025,545,914.0,Omen 15-ce006nv,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,12.0,1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.62,1799.0,2073600.0
+1026,215,559.0,Aspire 7,Notebook,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,1TB HDD,Nvidia GeForce GTX 1050,Linux,2.4,779.0,2073600.0
+1027,1164,914.0,EliteBook 820,Ultrabook,12.5,Intel Core i7 6500U 2.50GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.26,2296.95,2073600.0
+1028,63,899.0,IdeaPad 520S-14IKB,Notebook,14.0,Intel Core i3 7130U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,No OS,1.7,599.0,2073600.0
+1030,971,914.0,ProBook x360,2 in 1 Convertible,11.6,Intel Pentium Quad Core N4200 1.1GHz,4.0,256GB SSD,Intel HD Graphics 505,Windows 10,1.45,775.0,1049088.0
+1031,981,914.0,ProBook 450,Notebook,15.6,Intel Core i3 7100U 2.4GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.04,685.0,2073600.0
+1034,699,899.0,IdeaPad 520s-14IKB,Notebook,14.0,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.7,699.0,2073600.0
+1035,150,963.0,X541NA (N3350/4GB/1TB/FHD/W10),Notebook,15.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,1TB HDD,Intel HD Graphics 500,Windows 10,2.0,344.0,2073600.0
+1038,281,949.0,Inspiron 5770,Notebook,17.3,Intel Core i7 8550U 1.8GHz,8.0,128GB SSD +  1TB HDD,AMD Radeon 530,Linux,2.8,1099.0,2073600.0
+1039,738,559.0,Predator 17,Gaming,17.3,Intel Core i7 6700HQ 2.6GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,4.2,1935.0,2073600.0
+1040,881,899.0,ThinkPad L570,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.38,1055.0,1049088.0
+1041,1186,914.0,Stream 14-AX000nv,Notebook,14.0,Intel Celeron Dual Core N3060 1.6GHz,2.0,32GB Flash Storage,Intel HD Graphics 400,Windows 10,1.44,249.0,1049088.0
+1042,435,914.0,Omen 17-w207nv,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,12.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,3.35,1999.0,2073600.0
+1043,822,949.0,Vostro 5568,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,Nvidia GeForce GT 940MX,Windows 10,1.98,961.0,2073600.0
+1045,1099,949.0,Vostro 3568,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.18,750.0,2073600.0
+1046,467,559.0,Aspire E5-576G,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,1TB HDD,Nvidia GeForce 940MX,Windows 10,2.23,544.0,2073600.0
+1047,26,949.0,Inspiron 3567,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,1TB HDD,Intel HD Graphics 520,Windows 10,2.3,418.64,1049088.0
+1050,1270,899.0,IdeaPad 310-15ISK,Notebook,15.6,Intel Core i3 6100U 2.3GHz,6.0,128GB SSD,Nvidia GeForce 920MX,Windows 10,2.4,569.0,2073600.0
+1051,437,1624.0,Chromebook 3,Netbook,11.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,16GB Flash Storage,Intel HD Graphics 400,Chrome OS,1.15,269.0,1049088.0
+1052,752,899.0,Thinkpad P51s,Workstation,15.6,Intel Core i7 7600U 2.8GHz,16.0,1TB SSD,Nvidia Quadro M520M,Windows 10,2.5,3299.0,8294400.0
+1053,450,899.0,IdeaPad 320-15IAP,Notebook,15.6,Intel Pentium Quad Core N4200 1.1GHz,4.0,128GB SSD,Intel HD Graphics 505,Windows 10,2.2,349.0,2073600.0
+1055,918,914.0,Elitebook 820,Netbook,12.5,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.26,1483.0,2073600.0
+1056,320,949.0,Inspiron 5570,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.33,844.0,2073600.0
+1058,976,559.0,Aspire F5-573G-510L,Notebook,15.6,Intel Core i5 7200U 2.5GHz,12.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 950M,Windows 10,2.4,1009.0,2073600.0
+1059,623,949.0,Vostro 3568,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,128GB SSD,AMD Radeon R5 M420,Linux,2.18,569.0,2073600.0
+1060,520,949.0,Inspiron 5570,Notebook,15.6,Intel Core i7 8550U 1.8GHz,16.0,256GB SSD +  2TB HDD,AMD Radeon 530,Windows 10,2.2,1219.24,2073600.0
+1063,933,1684.0,GL62M 7RD,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.2,1119.91,2073600.0
+1065,177,1195.0,Satellite Pro,Notebook,15.6,Intel Core i3 7100U 2.4GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.0,489.0,1049088.0
+1067,3,914.0,250 G6,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,No OS,1.86,575.0,2073600.0
+1068,1161,914.0,ZBook 15,Workstation,15.6,Intel Core i7 6700HQ 2.6GHz,8.0,256GB SSD,Nvidia Quadro M1000M,Windows 7,2.59,2229.0,2073600.0
+1069,631,914.0,EliteBook 850,Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 7,1.88,932.0,1049088.0
+1071,1258,899.0,IdeaPad 320-15ABR,Notebook,15.6,AMD A12-Series 9720P 3.6GHz,6.0,256GB SSD,AMD Radeon 530,Windows 10,2.2,597.57,2073600.0
+1074,561,914.0,ProBook 470,Notebook,17.3,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,Nvidia GeForce 930MX,Windows 10,2.63,1280.0,2073600.0
+1075,1055,210.8,V142 (X5-Z8350/2GB/32GB/W10),Notebook,14.0,Intel Atom X5-Z8350 1.44GHz,2.0,32GB Flash Storage,Intel HD Graphics 400,Windows 10,1.45,210.8,1049088.0
+1077,313,899.0,IdeaPad 320-15IKB,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce 940MX,Windows 10,2.3,819.0,2073600.0
+1078,1262,914.0,EliteBook 840,Notebook,14.0,Intel Core i5 6200U 2.3GHz,4.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.54,1099.99,2073600.0
+1079,464,1340.0,Surface Laptop,Ultrabook,13.5,Intel Core M m3-7Y30 2.2GHz,4.0,128GB SSD,Intel HD Graphics 615,Windows 10 S,1.252,989.0,3393024.0
+1082,584,899.0,IdeaPad Y910-17ISK,Gaming,17.3,Intel Core i7 6820HK 2.7GHz,32.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.6,2663.0,2073600.0
+1083,1320,963.0,X553SA-XX031T (N3050/4GB/500GB/W10),Notebook,15.6,Intel Celeron Dual Core N3050 1.6GHz,4.0,500GB HDD,Intel HD Graphics,Windows 10,2.2,369.0,1049088.0
+1084,409,899.0,ThinkPad E580,Notebook,15.6,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD +  1TB HDD,AMD Radeon RX 550,Windows 10,2.1,1144.5,2073600.0
+1085,51,899.0,Yoga Book,2 in 1 Convertible,10.1,Intel Atom x5-Z8550 1.44GHz,4.0,64GB Flash Storage,Intel HD Graphics 400,Android,0.69,319.0,2304000.0
+1086,310,899.0,IdeaPad 320-15IAP,Notebook,15.6,Intel Pentium Quad Core N4200 1.1GHz,4.0,1TB HDD,Intel HD Graphics 505,No OS,2.2,359.99,1049088.0
+1088,347,899.0,IdeaPad 320-15ABR,Notebook,15.6,AMD A12-Series 9720P 3.6GHz,12.0,2TB HDD,AMD Radeon 530,Windows 10,2.2,899.0,2073600.0
+1090,491,899.0,ThinkPad E570,Notebook,15.6,Intel Core i3 6006U 2.0GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,2.3,565.0,1049088.0
+1091,831,899.0,Thinkpad X1,Ultrabook,14.0,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.13,2499.0,2073600.0
+1092,551,963.0,VivoBook X540YA-XX519T,Notebook,15.6,AMD E-Series 7110 1.8GHz,4.0,500GB HDD,AMD Radeon R2 Graphics,Windows 10,2.0,349.0,1049088.0
+1093,47,899.0,IdeaPad 320-15ISK,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,128GB SSD,Intel HD Graphics 520,No OS,2.2,369.0,1049088.0
+1094,1302,899.0,Yoga 500-14ISK,2 in 1 Convertible,14.0,Intel Core i7 6500U 2.5GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,1.8,638.0,2073600.0
+1095,257,963.0,X505BP-BR019T (A9-9420/4GB/1TB/Radeon,Notebook,15.6,AMD A9-Series 9420 3GHz,4.0,1TB HDD,AMD Radeon R5 M420,Windows 10,1.68,469.0,1049088.0
+1096,201,914.0,ProBook 430,Notebook,13.3,Intel Core i5 8250U 1.6GHz,8.0,512GB SSD,Intel UHD Graphics 620,Windows 10,1.49,959.0,2073600.0
+1097,952,949.0,Latitude 7480,Ultrabook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.36,1639.0,2073600.0
+1100,1110,559.0,Aspire F5-573G,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 950M,Windows 10,2.4,799.0,2073600.0
+1101,795,1684.0,GL62M (i5-7300HQ/8GB/1TB,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.2,1089.0,2073600.0
+1103,771,1879.0,Pixelbook (Core,Ultrabook,12.3,Intel Core i5 7Y57 1.2GHz,8.0,256GB SSD,Intel HD Graphics 615,Chrome OS,1.1,1559.0,3840000.0
+1106,996,899.0,IdeaPad 320-15ABR,Notebook,15.6,AMD A12-Series 9720P 3.6GHz,6.0,256GB SSD,AMD Radeon 530,Windows 10,2.2,549.0,2073600.0
+1107,947,899.0,Yoga 900-13ISK,2 in 1 Convertible,13.3,Intel Core i7 6560U 2.2GHz,16.0,1TB SSD,Intel Iris Graphics 540,Windows 10,1.3,1799.0,5760000.0
+1108,1114,963.0,G752VY-GC162T (i7-6700HQ/16GB/1TB,Gaming,17.3,Intel Core i7 6700HQ 2.6GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 980M,Windows 10,4.3,2299.0,2073600.0
+1110,1289,899.0,Yoga 900-13ISK,2 in 1 Convertible,13.3,Intel Core i7 6500U 2.5GHz,16.0,512GB SSD,Intel HD Graphics 520,Windows 10,1.3,1499.0,5760000.0
+1111,1059,914.0,EliteBook 850,Notebook,15.6,Intel Core i5 6300U 2.4GHz,8.0,256GB SSD +  500GB HDD,Intel HD Graphics 520,Windows 10,1.84,2103.34,2073600.0
+1113,67,963.0,ZenBook Pro,Ultrabook,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,512GB SSD,Nvidia GeForce GTX 1050 Ti,Windows 10,1.8,1983.0,2073600.0
+1114,171,949.0,Inspiron 5577,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.56,1060.49,2073600.0
+1116,936,914.0,Envy 13-AB077cl,Ultrabook,13.3,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.39,1149.0,5760000.0
+1119,998,1195.0,Tecra A40-C-1KF,Notebook,14.0,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,1.75,915.0,1049088.0
+1120,1311,899.0,IdeaPad Y700-15ISK,Notebook,15.6,Intel Core i7 6700HQ 2.6GHz,8.0,1TB HDD,Nvidia GeForce GTX 960M,Windows 10,2.6,899.0,2073600.0
+1121,160,963.0,ZenBook Flip,2 in 1 Convertible,13.3,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.1,1315.0,2073600.0
+1122,527,899.0,Legion Y720-15IKB,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,3.2,1399.0,2073600.0
+1126,172,559.0,Aspire A517-51G,Notebook,17.3,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,Nvidia GeForce MX150,Windows 10,3.0,854.0,2073600.0
+1129,741,559.0,Extensa EX2540-58KR,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.4,559.0,1049088.0
+1130,980,949.0,Latitude 5580,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,1.9,825.0,1049088.0
+1131,367,963.0,Zenbook UX410UA-GV027T,Notebook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.0,945.0,2073600.0
+1132,1305,914.0,15-AC110nv (i7-6500U/6GB/1TB/Radeon,Notebook,15.6,Intel Core i7 6500U 2.5GHz,6.0,1TB HDD,AMD Radeon R5 M330,Windows 10,2.19,764.0,1049088.0
+1133,204,949.0,Inspiron 7577,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.65,1845.0,8294400.0
+1134,709,899.0,IdeaPad 320-15AST,Notebook,15.6,AMD A9-Series 9420 2.9GHz,4.0,256GB SSD,AMD Radeon 530,Windows 10,2.2,399.0,2073600.0
+1136,60,963.0,X541UA-DM1897 (i3-6006U/4GB/256GB/FHD/Linux),Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,256GB SSD,Intel HD Graphics 520,Linux,2.0,415.0,2073600.0
+1137,595,899.0,Ideapad 320-15IKBR,Notebook,15.6,Intel Core i7 8550U 1.8GHz,12.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.2,609.0,1049088.0
+1138,1254,914.0,EliteBook 840,Ultrabook,14.0,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.54,2198.19,3686400.0
+1139,961,899.0,IdeaPad 310-15IKB,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,Nvidia GeForce 920MX,No OS,2.2,685.0,2073600.0
+1140,663,1195.0,Tecra A50-D-11M,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.0,1064.0,2073600.0
+1141,1171,949.0,Inspiron 7567,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,1TB HDD,Nvidia GeForce GTX 1050Ti,Windows 10,2.62,1199.0,2073600.0
+1142,535,949.0,Inspiron 3567,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,AMD Radeon R5 M430,Windows 10,2.3,585.0,2073600.0
+1144,658,963.0,ROG G701VI,Gaming,17.3,Intel Core i7 6820HK 2.7GHz,32.0,512GB SSD,Nvidia GeForce GTX 1080,Windows 10,3.8,2799.0,2073600.0
+1145,1118,914.0,ZBook 17,Workstation,17.3,Intel Core i7 6700HQ 2.6GHz,8.0,1TB HDD,AMD FirePro W6150M,Windows 7,3.0,2899.0,2073600.0
+1146,433,949.0,Inspiron 5570,Notebook,15.6,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD +  2TB HDD,AMD Radeon 530,Windows 10,2.02,1142.4,2073600.0
+1149,505,899.0,ThinkPad 13,Notebook,13.3,Intel Core i3 7100U 2.4GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.4,949.0,2073600.0
+1152,956,559.0,TravelMate P259-G2,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.23,619.0,1049088.0
+1153,259,559.0,Aspire 5,Notebook,17.3,Intel Core i3 7130U 2.7GHz,4.0,256GB SSD,Nvidia GeForce MX130,Windows 10,3.0,702.0,2073600.0
+1154,859,914.0,EliteBook 840,Ultrabook,14.0,Intel Core i7 6500U 2.5GHz,8.0,512GB SSD,Intel HD Graphics 520,Windows 10,1.54,1468.0,2073600.0
+1157,99,949.0,Inspiron 3567,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,256GB SSD,AMD Radeon R5 M430,Linux,2.2,485.0,2073600.0
+1158,564,899.0,IdeaPad 320-17IKB,Notebook,17.3,Intel Core i7 7500U 2.7GHz,6.0,128GB SSD +  1TB HDD,Nvidia GeForce 940MX,Windows 10,2.8,949.0,1440000.0
+1159,1112,1684.0,GS70 Stealth,Gaming,17.3,Intel Core i7 6700HQ 2.6GHz,8.0,256GB SSD,Nvidia GeForce GTX 965M,Windows 10,2.6,1599.0,2073600.0
+1160,646,899.0,Thinkpad Yoga,2 in 1 Convertible,13.3,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.37,1757.42,2073600.0
+1161,635,963.0,Q304UA-BHI5T11 (i5-7200U/6GB/1TB/FHD/W10),2 in 1 Convertible,13.3,Intel Core i5 7200U 2.5GHz,6.0,1TB HDD,Intel HD Graphics 620,Windows 10,1.5,639.01,2073600.0
+1165,967,963.0,Chromebook Flip,2 in 1 Convertible,12.5,Intel Core M M7-6Y75 1.2GHz,8.0,64GB Flash Storage,Intel HD Graphics 515,Chrome OS,1.2,1159.0,2073600.0
+1166,38,949.0,Inspiron 5770,Notebook,17.3,Intel Core i5 8250U 1.6GHz,8.0,128GB SSD +  1TB HDD,AMD Radeon 530,Windows 10,2.8,979.0,2073600.0
+1167,1249,3049.0,Blade Pro,Gaming,14.0,Intel Core i7 7700HQ 2.8GHz,16.0,1TB SSD,Nvidia GeForce GTX 1060,Windows 10,1.95,3499.0,2073600.0
+1168,762,899.0,Thinkpad T460,Ultrabook,14.0,Intel Core i5 6200U 2.3GHz,4.0,180GB SSD,Intel HD Graphics 520,Windows 10,1.7,1096.0,2073600.0
+1169,1317,899.0,Yoga 900-13ISK,2 in 1 Convertible,13.3,Intel Core i7 6500U 2.5GHz,16.0,512GB SSD,Intel HD Graphics 520,Windows 10,1.3,1499.0,5760000.0
+1170,1151,914.0,ZBook 17,Workstation,17.3,Intel Core i7 6700HQ 2.6GHz,8.0,256GB SSD,Nvidia Quadro M3000M,Windows 7,3.0,3949.4,2073600.0
+1171,1093,899.0,V110-15ISK (i5-6200U/4GB/500GB/W10),Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,2.1,540.0,1049088.0
+1172,1040,914.0,ProBook 650,Notebook,14.0,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,2.31,1189.0,1049088.0
+1173,144,899.0,ThinkPad E480,Notebook,14.0,Intel Core i5 8250U 1.6GHz,8.0,256GB SSD,AMD Radeon RX 550,Windows 10,1.75,1116.02,2073600.0
+1174,823,949.0,Vostro 3568,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,AMD Radeon R5 M420,Windows 10,2.18,789.81,2073600.0
+1175,556,899.0,ThinkPad T570,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.99,1729.0,2073600.0
+1177,1156,899.0,ThinkPad X1,2 in 1 Convertible,14.0,Intel Core i7 6600U 2.6GHz,16.0,512GB SSD,Intel HD Graphics 520,Windows 10,2.8,2440.0,3686400.0
+1178,537,949.0,Alienware 17,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42,3012.77,2073600.0
+1179,1313,949.0,Inspiron 3567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,AMD Radeon R5 M430,Linux,2.3,805.99,1049088.0
+1181,235,963.0,Pro P2540UA-XO0198T,Notebook,15.6,Intel Core i3 7100U 2.4GHz,4.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.37,398.99,1049088.0
+1182,29,949.0,Latitude 5590,Ultrabook,15.6,Intel Core i7 8650U 1.9GHz,8.0,256GB SSD +  256GB SSD,Intel UHD Graphics 620,Windows 10,1.88,1298.0,2073600.0
+1183,1273,963.0,X541NA-GO020T (N3350/4GB/1TB/W10),Notebook,15.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,1TB HDD,Intel HD Graphics 500,Windows 10,2.0,339.0,1049088.0
+1184,359,914.0,Zbook 15,Workstation,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Nvidia Quadro M1200,Windows 10,2.6,1738.27,2073600.0
+1186,856,914.0,Chromebook X360,2 in 1 Convertible,11.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,32GB Flash Storage,Intel HD Graphics 500,Chrome OS,1.4,615.0,1049088.0
+1187,1094,914.0,Probook 650,Notebook,15.6,Intel Core i5 6200U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 7,2.31,940.0,2073600.0
+1189,681,899.0,IdeaPad 320-15AST,Notebook,15.6,AMD E-Series E2-9000 2.2GHz,4.0,128GB SSD,AMD Radeon R2 Graphics,Windows 10,2.2,349.0,1049088.0
+1190,366,914.0,250 G6,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,1.86,439.0,1049088.0
+1191,586,949.0,Inspiron 3567,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,AMD Radeon R5 M430,Linux,2.2,749.01,2073600.0
+1192,254,1339.69,MacBook Pro,Ultrabook,13.3,Intel Core i5 3.1GHz,8.0,512GB SSD,Intel Iris Plus Graphics 650,macOS,1.37,2040.0,4096000.0
+1193,1316,899.0,Yoga 500-14ISK,2 in 1 Convertible,14.0,Intel Core i7 6500U 2.5GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,1.8,638.0,2073600.0
+1194,277,949.0,Inspiron 3576,Notebook,15.6,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,AMD Radeon 520,Linux,2.14,735.07,2073600.0
+1195,1160,914.0,Spectre Pro,2 in 1 Convertible,13.3,Intel Core i5 6300U 2.4GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.48,1629.0,2073600.0
+1196,168,559.0,Aspire A315-31,Notebook,15.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,1TB HDD,Intel HD Graphics 500,Windows 10,2.1,348.0,1049088.0
+1197,983,899.0,IdeaPad 310-15IKB,Notebook,15.6,Intel Core i5 7200U 2.5GHz,6.0,256GB SSD,Nvidia GeForce 920MX,Windows 10,2.4,695.0,2073600.0
+1198,1202,914.0,Pavilion 15-BC000nv,Notebook,15.6,Intel Core i7 6700HQ 2.6GHz,6.0,1TB HDD,Nvidia GeForce GTX 960M,Windows 10,2.18,799.0,2073600.0
+1199,625,1684.0,GT62VR 7RE,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,2.94,2267.86,2073600.0
+1201,516,899.0,Legion Y520-15IKBN,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,No OS,2.4,1149.0,2073600.0
+1203,446,963.0,VivoBook Max,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,Intel HD Graphics 620,Linux,2.0,559.0,2073600.0
+1205,883,1195.0,Tecra A50-D-11D,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,2.0,1388.0,2073600.0
+1206,1041,914.0,ProBook 640,Notebook,14.0,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,1.95,1060.0,1049088.0
+1207,384,963.0,VivoBook E403NA,Notebook,14.0,Intel Celeron Dual Core N3350 1.1GHz,4.0,32GB Flash Storage,Intel HD Graphics 500,Windows 10,1.5,286.0,1049088.0
+1208,946,914.0,250 G6,Notebook,15.6,Intel Celeron Dual Core N3060 1.6GHz,4.0,1TB HDD,Intel HD Graphics 400,No OS,1.86,288.9,1049088.0
+1211,1069,914.0,ProBook 650,Notebook,15.6,Intel Core i3 6100U 2.3GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,2.31,705.15,1049088.0
+1212,607,914.0,EliteBook 850,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.84,1219.0,2073600.0
+1213,712,899.0,V310-15ISK (i3-6006U/4GB/500GB/No,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,No OS,1.9,450.0,1049088.0
+1214,341,914.0,EliteBook 840,Notebook,14.0,Intel Core i5 7300U 2.6GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.48,1268.0,2073600.0
+1215,274,899.0,V330-15IKB (i7-8550U/8GB/256GB/FHD/W10),Notebook,15.6,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,Intel UHD Graphics 620,Windows 10,2.05,880.0,2073600.0
+1218,1198,899.0,ThinkPad X1,2 in 1 Convertible,14.0,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.36,1637.0,3686400.0
+1219,667,949.0,Alienware 17,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,32.0,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.42,3147.37,8294400.0
+1220,1236,899.0,IdeaPad Y700-15ISK,Gaming,15.6,Intel Core i7 6700HQ 2.6GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960<U+039C>,Windows 10,2.6,1272.0,2073600.0
+1221,609,559.0,Aspire 1,Notebook,14.0,Intel Celeron Quad Core N3450 1.1GHz,4.0,32GB Flash Storage,Intel HD Graphics 500,Windows 10,1.6,329.0,2073600.0
+1222,106,914.0,Envy 13-ad009n,Ultrabook,13.3,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Nvidia GeForce MX150,Windows 10,1.38,1119.0,2073600.0
+1223,186,899.0,Yoga 920-13IKB,2 in 1 Convertible,13.9,Intel Core i7 8550U 1.8GHz,16.0,512GB SSD,Intel UHD Graphics 620,Windows 10,1.4,1849.0,8294400.0
+1224,657,899.0,Thinkpad X270,Ultrabook,12.5,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.36,1584.0,2073600.0
+1226,238,949.0,Vostro 5468,Notebook,14.0,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.6,859.0,2073600.0
+1228,304,963.0,ZenBook UX530UQ-PRO,Ultrabook,15.6,Intel Core i7 7500U 2.7GHz,16.0,512GB SSD,Nvidia GeForce 940MX,Windows 10,1.63,1468.0,2073600.0
+1230,312,1195.0,Satellite Pro,Notebook,15.6,Intel Core i7 6500U 2.5GHz,8.0,256GB SSD,Nvidia GeForce 930M,Windows 10,2.2,1043.0,2073600.0
+1232,452,949.0,Latitude 5480,Notebook,14.0,Intel Core i5 7440HQ 2.8GHz,8.0,256GB SSD,Nvidia GeForce 930MX,Windows 10,1.64,1179.0,2073600.0
+1233,294,899.0,IdeaPad 320-15IKB,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,Nvidia GeForce 940MX,No OS,2.2,659.01,2073600.0
+1234,1173,914.0,15-bw002nv (A6-9220/4GB/256GB/Radeon,Notebook,15.6,AMD A6-Series A6-9220 2.5GHz,4.0,256GB SSD,AMD Radeon 520,Windows 10,1.91,478.89,2073600.0
+1235,853,949.0,Vostro 3568,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,128GB SSD,Intel HD Graphics 620,Windows 10,2.18,713.99,1049088.0
+1237,1216,559.0,Aspire 3,Notebook,15.6,Intel Celeron Dual Core N3350 2GHz,4.0,1TB HDD,Intel HD Graphics 500,Linux,2.1,272.0,1049088.0
+1238,422,949.0,Inspiron 3567,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,256GB SSD,AMD Radeon R5 M430,Linux,2.3,598.9,2073600.0
+1239,1057,899.0,Thinkpad L560,Notebook,15.6,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,2.3,1049.6,2073600.0
+1241,307,899.0,IdeaPad 320-17IKB,Notebook,17.3,Intel Core i5 7200U 2.5GHz,6.0,1TB HDD,Nvidia GeForce GTX 940M,Windows 10,2.8,649.0,1440000.0
+1243,811,949.0,XPS 13,Ultrabook,13.3,Intel Core i5 7200U 2.5GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.29,1499.0,2073600.0
+1244,253,914.0,ProBook 430,Notebook,13.3,Intel Core i5 8250U 1.6GHz,4.0,500GB HDD,Intel UHD Graphics 620,Windows 10,1.49,675.0,2073600.0
+1245,1016,949.0,Vostro 3568,Notebook,15.6,Intel Core i3 7100U 2.4GHz,4.0,128GB SSD,Intel HD Graphics 620,Windows 10,2.18,547.0,1049088.0
+1249,582,265.0,SmartBook 141,Notebook,14.0,Intel Atom x5-Z8350 1.44GHz,4.0,32GB SSD,Intel HD Graphics,Windows 10,1.4,249.0,2073600.0
+1250,1276,899.0,B51-80 (i7-6500U/8GB/1008GB/Radeon,Notebook,15.6,Intel Core i7 6500U 2.5GHz,8.0,1.0TB Hybrid,AMD Radeon R5 M330,Windows 7,2.32,895.0,2073600.0
+1253,801,899.0,ThinkPad Yoga,2 in 1 Convertible,13.3,Intel Core i7 7500U 2.7GHz,8.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.37,1970.0,2073600.0
+1254,969,949.0,Alienware 17,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,512GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,4.36,3154.0,8294400.0
+1256,1065,914.0,Noteb Pav,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,1TB HDD,Nvidia GeForce 940MX,Windows 10,1.91,979.0,2073600.0
+1257,842,899.0,Thinkpad T460,Notebook,14.0,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 10,1.7,1186.0,2073600.0
+1258,797,559.0,Predator G9-793,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,4.2,2299.0,2073600.0
+1260,829,899.0,V110-15ISK (i3-6006U/4GB/500GB/W10),Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Intel HD Graphics 520,Windows 10,2.1,489.9,1049088.0
+1261,317,1684.0,GE63VR 7RF,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1070,Windows 10,2.8,2099.0,2073600.0
+1262,245,899.0,IdeaPad 320-15ISK,Notebook,15.6,Intel Core i3 6006U 2GHz,8.0,128GB SSD,Intel HD Graphics 520,Windows 10,2.2,589.0,1049088.0
+1263,94,914.0,Probook 430,Notebook,13.3,Intel Core i7 8550U 1.8GHz,16.0,512GB SSD,Intel UHD Graphics 620,Windows 10,1.49,1197.0,2073600.0
+1264,157,914.0,EliteBook 840,Ultrabook,14.0,Intel Core i5 7500U 2.7GHz,4.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.48,1082.0,2073600.0
+1268,426,899.0,ThinkPad E480,Ultrabook,14.0,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,AMD Radeon RX 550,Windows 10,1.75,1215.38,2073600.0
+1269,825,3049.0,Blade Stealth,Ultrabook,12.5,Intel Core i7 7500U 2.5GHz,16.0,512GB SSD,Intel HD Graphics 620,Windows 10,1.29,1799.0,8294400.0
+1270,708,949.0,Inspiron 5577,Gaming,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.56,819.0,2073600.0
+1271,319,963.0,VivoBook Flip,2 in 1 Convertible,11.6,Intel Celeron Dual Core N3350 1.1GHz,2.0,32GB Flash Storage,Intel HD Graphics 500,Windows 10,1.1,275.0,1049088.0
+1272,210,949.0,Inspiron 3567,Notebook,15.6,Intel Core i3 7100U 2.4GHz,6.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.3,439.0,1049088.0
+1273,1278,899.0,Yoga 500-14IBD,2 in 1 Convertible,14.0,Intel Core i5 6200U 2.3GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,1.8,833.01,2073600.0
+1274,565,914.0,15-bw007nv (A10-9620P/6GB/128GB/Radeon,Notebook,15.6,AMD A10-Series A10-9620P 2.5GHz,6.0,128GB SSD,AMD Radeon 530,Windows 10,1.91,568.9,2073600.0
+1275,774,559.0,TravelMate P238-M,Notebook,13.3,Intel Core i5 6200U 2.3GHz,4.0,128GB SSD,Intel HD Graphics 520,Windows 10,1.6,655.0,1049088.0
+1276,344,963.0,X541NA (N3350/4GB/1TB/Linux),Notebook,15.6,Intel Celeron Dual Core N3350 1.1GHz,4.0,1TB HDD,Intel HD Graphics 500,Linux,2.0,274.99,1049088.0
+1277,571,963.0,FX553VD-DM627T (i5-7300HQ/8GB/1TB,Notebook,15.6,Intel Core i5 7300HQ 2.5GHz,8.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050,Windows 10,2.5,839.0,2073600.0
+1280,249,899.0,Yoga 910-13IKB,2 in 1 Convertible,13.9,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD,Intel HD Graphics 620,Windows 10,1.38,1079.0,2073600.0
+1282,1246,899.0,IdeaPad Y700-15ISK,Gaming,15.6,Intel Core i7 6700HQ 2.6GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows 10,2.6,1029.0,2073600.0
+1283,615,899.0,Yoga 720-15IKB,2 in 1 Convertible,15.6,Intel Core i7 7700HQ 2.8GHz,8.0,256GB SSD,Intel HD Graphics 630,Windows 10,2.0,1299.0,2073600.0
+1284,553,899.0,ThinkPad E470,Notebook,14.0,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,1.87,785.0,2073600.0
+1287,539,963.0,Zenbook UX510UW-FI095T,Notebook,15.6,Intel Core i7 7500U 2.7GHz,8.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 960M,Windows 10,2.0,1299.0,8294400.0
+1288,934,949.0,Vostro 3568,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,1TB HDD,AMD Radeon R5 M420,Windows 10,2.18,684.99,1049088.0
+1289,526,963.0,FX753VE-GC155T (i7-7700HQ/16GB/1TB,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX1050 Ti,Windows 10,3.0,1504.0,2073600.0
+1290,297,914.0,17-BS037cl (i3-6006U/8GB/1TB/W10),Notebook,17.3,Intel Core i3 6006U 2GHz,8.0,1TB HDD,Intel HD Graphics 520,Windows 10,2.54,489.0,1440000.0
+1291,1228,1339.69,"MacBook 12""",Ultrabook,12.0,Intel Core M 1.2GHz,8.0,512GB Flash Storage,Intel HD Graphics 515,Mac OS X,0.92,1279.0,3317760.0
+1292,1251,1684.0,GE72VR Apache,Gaming,17.3,Intel Core i7 7700HQ 2.8GHz,16.0,256GB SSD +  1TB HDD,Nvidia GeForce GTX 1060,Windows 10,2.7,1598.0,2073600.0
+1293,322,899.0,ThinkPad 13,Notebook,13.3,Intel Celeron Dual Core 3855U 1.6GHz,4.0,16GB Flash Storage,Intel HD Graphics 510,Chrome OS,1.45,459.9,1049088.0
+1294,1210,914.0,250 G6,Notebook,15.6,Intel Core i5 7200U 2.5GHz,4.0,500GB HDD,Intel HD Graphics 620,Windows 10,1.86,485.0,1049088.0
+1296,932,949.0,Inspiron 7567,Gaming,15.6,Intel Core i7 7700HQ 2.8GHz,16.0,128GB SSD +  1TB HDD,Nvidia GeForce GTX 1050 Ti,Windows 10,2.6,1349.0,2073600.0
+1297,1166,914.0,EliteBook 850,Notebook,15.6,Intel Core i5 6200U 2.3GHz,8.0,256GB SSD,Intel HD Graphics 520,Windows 7,1.88,1579.0,2073600.0
+1298,473,559.0,Aspire 5,Notebook,15.6,Intel Core i3 6006U 2GHz,4.0,500GB HDD,Nvidia GeForce GTX 940MX,Windows 10,2.2,469.0,1049088.0
+1300,1111,949.0,Inspiron 5567,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,AMD Radeon R7 M445,Windows 10,2.36,638.8,2073600.0
+1301,674,949.0,Latitude 3580,Notebook,15.6,Intel Core i5 7200U 2.5GHz,8.0,1TB HDD,Intel HD Graphics 620,Windows 10,2.06,955.0,2073600.0
+1302,403,899.0,ThinkPad E580,Notebook,15.6,Intel Core i7 8550U 1.8GHz,8.0,256GB SSD,AMD Radeon RX 550,Windows 10,2.1,1229.56,2073600.0
